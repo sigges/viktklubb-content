@@ -1,0 +1,19 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Vilket medlemskap är bäst för dig?",
+        "align": "center",
+        "strength": 1
+
+      }
+    }
+  ]
+}
