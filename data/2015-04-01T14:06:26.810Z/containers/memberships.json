@@ -9,7 +9,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Vilket medlemskap passar dig bäst idag?",
+        "label": "Vilket medlemskap passar dig bäst?",
         "align": "center",
         "strength": 1
 
