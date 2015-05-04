@@ -27,10 +27,11 @@
             "normal": "http://gfx2.aftonbladet-cdn.se/image/20677899/480/normal/71edb9647af0b/Utvecklad+med+KI",
             "square": "http://gfx1.aftonbladet-cdn.se/image/20677899/160/square/3dd8202c5af0b/Utvecklad+med+KI",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20677899/481/thirteenByNine/fd23505761f0b/Utvecklad+med+KI",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20677899/480/widescreen/ca27bcf9ebf0b/Utvecklad+med+KI"
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20677899/480/widescreen/ca27bcf9ebf0b/Utvecklad+med+KI",
+            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20677899.ab/binary/Utvecklad med KI"
           },
           "alt": "Utvecklad med Karolinska Institutet",
-          "format": "normal"
+          "format": "binary"
         }
       }
     }
