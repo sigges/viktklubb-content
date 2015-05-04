@@ -50,6 +50,27 @@
     }
   },
   "pages": {
+    "frontpage": {
+      "containers": [
+        "banner",
+        "conversionVideo",
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "intro-box",
+        "split-ad",
+        "vk-features",
+        "testimonials"
+      ]
+    },
+    "bmi": {
+      "containers": [
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "testimonials"
+      ]
+    },
     "memberships": {
       "containers": [
         "memberships"
