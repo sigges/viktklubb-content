@@ -4,14 +4,14 @@
     "width": "full",
     "margin": false
   },
-  "items": [
+    "items": [
     {
       "type": "standard-banner",
       "order": "0",
       "props": {
         "body": "Gå ner i vikt och kom i form till sommaren med Viktklubb! Vi hjälper dig att välja rätt energikick.",
         "smallBody": "",
-        "disclaimer": "* gäller vid tecknande av medlemsskap på minst 6 mån t.o.m. 2015-05-31",
+        "disclaimer": "* gäller vid tecknande av medlemskap på minst 6 mån t.o.m. 2015-05-31",
         "cta": {
           "href": "/kampanj/blimedlem",
           "label": "Börja idag!",
@@ -28,10 +28,11 @@
             "normal": "http://gfx2.aftonbladet-cdn.se/image/20629261/480/normal/4e8e0fd8d8f0e/Vilken+kick+%E2%80%93+Klubb+eller+boll",
             "square": "http://gfx1.aftonbladet-cdn.se/image/20629261/160/square/488fb134d9f0e/Vilken+kick+%E2%80%93+Klubb+eller+boll",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20629261/481/thirteenByNine/fd46c71c15f0e/Vilken+kick+%E2%80%93+Klubb+eller+boll",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20629261/480/widescreen/9758230d02f0e/Vilken+kick+%E2%80%93+Klubb+eller+boll"
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20629261/480/widescreen/9758230d02f0e/Vilken+kick+%E2%80%93+Klubb+eller+boll",
+            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20629261.ab/binary/Vilken kick – Klubb eller boll"
           },
-          "alt": "En klubba eller en boll, vilken väljer du?",
-          "format": "normal"
+          "alt": "En klubba eller en boll, vilken väljer du",
+          "format": "binary"
         },
         "imageHeader": {
           "imageId": "20630510",
@@ -44,10 +45,11 @@
             "normal": "http://gfx2.aftonbladet-cdn.se/image/20630510/480/normal/cd2c0d5188817/Dark+burned+header+for+April+campaign+2015",
             "square": "http://gfx1.aftonbladet-cdn.se/image/20630510/160/square/46777c19e3817/Dark+burned+header+for+April+campaign+2015",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20630510/481/thirteenByNine/12df7afb34817/Dark+burned+header+for+April+campaign+2015",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20630510/480/widescreen/adb7135cc7817/Dark+burned+header+for+April+campaign+2015"
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20630510/480/widescreen/adb7135cc7817/Dark+burned+header+for+April+campaign+2015",
+            "binary": "http://www.aftonbladet.se/nyheter/article20630510.ab/binary/Dark burned header for April campaign 2015"
           },
           "alt": "Vilken kick väljer du?",
-          "format": "normal"
+          "format": "binary"
         },
         "imageSplash": {
           "imageId": "20629272",
@@ -60,10 +62,11 @@
             "normal": "http://gfx2.aftonbladet-cdn.se/image/20629272/480/normal/e2d8bc23171ba/1kr+f%C3%B6rsta+m%C3%A5naden+splash",
             "square": "http://gfx1.aftonbladet-cdn.se/image/20629272/160/square/79ef6806dc1ba/1kr+f%C3%B6rsta+m%C3%A5naden+splash",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20629272/481/thirteenByNine/9ed487f3881ba/1kr+f%C3%B6rsta+m%C3%A5naden+splash",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20629272/480/widescreen/11f1babc921ba/1kr+f%C3%B6rsta+m%C3%A5naden+splash"
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20629272/480/widescreen/11f1babc921ba/1kr+f%C3%B6rsta+m%C3%A5naden+splash",
+            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20629272.ab/binary/1kr första månaden splash"
           },
           "alt": "1kr första månaden!*",
-          "format": "normal"
+          "format": "binary"
         }
       }
     }
