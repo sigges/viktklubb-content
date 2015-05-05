@@ -8,14 +8,14 @@
       "offers": {
         "three-months-monthly": {
           "months": 3,
-          "price": 99,
+          "price": 159,
           "unit": "kr/månad",
           "productId": "200247",
           "campaignId": "10020"
         },
         "six-months-monthly": {
           "months": 6,
-          "price": 89,
+          "price": 129,
           "unit": "kr/månad",
           "productId": "200249",
           "campaignId": "10020"
