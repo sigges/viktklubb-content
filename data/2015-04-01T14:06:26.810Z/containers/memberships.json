@@ -15,8 +15,15 @@
       }
     },
     {
-      "type": "img-sticker",
+      "type": "text-element",
       "order": 0.1,
+      "props": {
+        "label": "Vilket medlemskap passar dig bäst?"
+      }
+    },
+    {
+      "type": "img-sticker",
+      "order": 0.2,
       "props": {
         "image": {
           "imageId": "20594508",
