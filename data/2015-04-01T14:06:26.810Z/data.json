@@ -52,7 +52,7 @@
   "pages": {
     "frontpage": {
       "containers": [
-        "banner",
+        "ettan-banner",
         "conversionVideo",
         "bmi-calculator",
         "bmi-range-display",
