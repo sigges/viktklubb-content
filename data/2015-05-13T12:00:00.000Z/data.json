@@ -28,10 +28,10 @@
       },
       "three-months-upfront": {
         "months": 3,
-        "price": 297,
+        "price": 149,
         "unit": "kr",
-        "productId": "202991",
-        "campaignId": "10944"
+        "productId": "203099",
+        "campaignId": "10972"
       },
       "six-months-upfront": {
         "months": 6,
