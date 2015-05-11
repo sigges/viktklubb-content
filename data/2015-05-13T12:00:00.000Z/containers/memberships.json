@@ -9,7 +9,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Vilket medlemskap passar dig bäst?",
+        "label": "Helgerbjudande!",
         "align": "center",
         "strength": 1
       }
@@ -53,7 +53,7 @@
       "order": 1,
       "props": {
         "discreet": true,
-        "selectedType": "monthly",
+        "selectedType": "total",
         "hideTypeSwitch": false,
         "monthly": [
           { 
@@ -74,17 +74,17 @@
         ],
         "total": [
           { 
-            "sticker": "JUST NU!",
+            "sticker": "",
             "cta": "Välj",
             "offer": "twelve-months-upfront"
           },
           { 
-            "sticker": "JUST NU!",
+            "sticker": "",
             "cta": "Välj",
             "offer": "six-months-upfront"
           },
           { 
-            "sticker": "",
+            "sticker": "JUST NU!",
             "cta": "Välj",
             "offer": "three-months-upfront"
           }
