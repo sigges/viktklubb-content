@@ -93,6 +93,14 @@
         
     },
     {
+      "type": "text-element",
+      "order": "1.9",
+      "props": {
+        "label": "* Helgerbjudandet gäller endast Viktklubbs 3 månaders abonnemang vid betalning av hela bindningstiden direkt. Erbjudandet gäller till den 18 maj 2015.",
+        "fontSize": "12"
+      }
+    }
+    {
       "type": "features",
       "order": 2,
       "props": {
