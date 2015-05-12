@@ -1,6 +1,6 @@
 {
   "payment": {
-    "externalHost": "http://login.aftonbladet.se",
+    "externalHost": "https://login.aftonbladet.se",
     "path": "purchase",
     "productQuery": "product_id",
     "campaignQuery": "campaign_id",
