@@ -1,0 +1,15 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "margin": false
+  },
+    "items": [
+    {
+      "type": "welcome-letter",
+      "order": "0",
+      "props": {
+      }
+    }
+  ]
+}
