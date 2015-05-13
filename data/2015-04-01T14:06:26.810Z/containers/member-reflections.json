@@ -20,6 +20,7 @@
       "type": "list-box",
       "order": 1,
       "props": {
+        "cols": 2,
         "items": [
           {
             "type": "header",
@@ -40,8 +41,53 @@
               "strength": 2,
               "color": "primary3"
             }
+          },
+          {
+            "type": "header",
+            "order": 2,
+            "props": {
+              "label": "Hör våra medlemmar berätta",
+              "align": "center",
+              "strength": 2,
+              "color": "primary3"
+            }
+          },
+          {
+            "type": "header",
+            "order": 3,
+            "props": {
+              "label": "Hör våra medlemmar berätta",
+              "align": "center",
+              "strength": 2,
+              "color": "primary3"
+            }
           }
-        ]
+        ],
+        medium: {
+          "cols": 1,
+          "items": [
+            {
+              "type": "header",
+              "order": 0,
+              "props": {
+                "label": "Hör våra medlemmar berätta",
+                "align": "center",
+                "strength": 2,
+                "color": "primary3"
+              }
+            },
+            {
+              "type": "header",
+              "order": 1,
+              "props": {
+                "label": "Hör våra medlemmar berätta",
+                "align": "center",
+                "strength": 2,
+                "color": "primary3"
+              }
+            }
+          ]
+        }
       }
     }
   ]
