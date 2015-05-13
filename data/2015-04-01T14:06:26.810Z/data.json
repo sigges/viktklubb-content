@@ -63,6 +63,11 @@
         "testimonials"
       ]
     },
+    "vk-content": {
+      "containers": [
+        "testimonials"
+      ]
+    }
     "bmi": {
       "containers": [
         "bmi-calculator",
