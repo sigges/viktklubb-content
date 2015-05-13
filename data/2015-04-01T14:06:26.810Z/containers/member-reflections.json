@@ -23,43 +23,31 @@
         "cols": 2,
         "items": [
           {
-            "type": "header",
-            "order": 0,
+            "type": "video-element",
+            "order": "0",
             "props": {
-              "label": "Hör våra medlemmar berätta",
-              "align": "center",
-              "strength": 2,
-              "color": "primary3"
+              "vimeoId": "121459494"
             }
           },
           {
-            "type": "header",
-            "order": 1,
+            "type": "video-element",
+            "order": "1",
             "props": {
-              "label": "Hör våra medlemmar berätta",
-              "align": "center",
-              "strength": 2,
-              "color": "primary3"
+              "vimeoId": "121459499"
             }
           },
           {
-            "type": "header",
-            "order": 2,
+            "type": "video-element",
+            "order": "2",
             "props": {
-              "label": "Hör våra medlemmar berätta",
-              "align": "center",
-              "strength": 2,
-              "color": "primary3"
+              "vimeoId": "121459497"
             }
           },
           {
-            "type": "header",
-            "order": 3,
+            "type": "video-element",
+            "order": "3",
             "props": {
-              "label": "Hör våra medlemmar berätta",
-              "align": "center",
-              "strength": 2,
-              "color": "primary3"
+              "vimeoId": "121459496"
             }
           }
         ],
@@ -67,23 +55,17 @@
           "cols": 1,
           "items": [
             {
-              "type": "header",
-              "order": 0,
+              "type": "video-element",
+              "order": "0",
               "props": {
-                "label": "Hör våra medlemmar berätta",
-                "align": "center",
-                "strength": 2,
-                "color": "primary3"
+                "vimeoId": "121459494"
               }
             },
             {
-              "type": "header",
-              "order": 1,
+              "type": "video-element",
+              "order": "1",
               "props": {
-                "label": "Hör våra medlemmar berätta",
-                "align": "center",
-                "strength": 2,
-                "color": "primary3"
+                "vimeoId": "121459497"
               }
             }
           ]
