@@ -63,7 +63,7 @@
             }
           }
         ],
-        medium: {
+        "medium": {
           "cols": 1,
           "items": [
             {
