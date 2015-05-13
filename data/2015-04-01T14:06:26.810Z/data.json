@@ -65,7 +65,8 @@
     },
     "vk-content": {
       "containers": [
-        "welcome-letter"
+        "welcome-letter",
+        "member-reflections"
       ]
     },
     "bmi": {
