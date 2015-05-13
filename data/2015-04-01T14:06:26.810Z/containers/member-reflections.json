@@ -1,6 +1,6 @@
 {
   "props": {
-    "shadowBox": true,
+    "shadowBox": false,
     "width": "full",
     "margin": true,
     "background": "white"
@@ -13,7 +13,7 @@
         "label": "Hör våra medlemmar berätta",
         "align": "center",
         "strength": 2,
-        "color": "primary1"
+        "color": "primary3"
       }
     }
   ]
