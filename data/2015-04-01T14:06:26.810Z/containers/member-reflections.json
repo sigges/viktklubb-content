@@ -12,7 +12,8 @@
       "props": {
         "label": "Hör våra medlemmar berätta",
         "align": "center",
-        "strength": 2
+        "strength": 2,
+        "color": "primary1"
       }
     }
   ]
