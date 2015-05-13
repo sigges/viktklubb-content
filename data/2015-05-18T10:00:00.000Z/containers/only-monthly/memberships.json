@@ -16,7 +16,7 @@
     },
     {
       "type": "img-sticker",
-      "order": 0.2,
+      "order": 0.1,
       "props": {
         "image": {
           "imageId": "20594508",
@@ -29,11 +29,10 @@
             "normal": "http://gfx2.aftonbladet-cdn.se/image/20594508/480/normal/860252f8a1b28/April+2015+campaign+sticker",
             "square": "http://gfx1.aftonbladet-cdn.se/image/20594508/160/square/0d8e0bd026b28/April+2015+campaign+sticker",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20594508/481/thirteenByNine/2d5da3a2e7b28/April+2015+campaign+sticker",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20594508/480/widescreen/45a9702fa9b28/April+2015+campaign+sticker",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20594508.ab/binary/April 2015 campaign sticker"
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20594508/480/widescreen/45a9702fa9b28/April+2015+campaign+sticker"
           },
           "alt": "1kr första månaden",
-          "format": "binary"
+          "format": "normal"
         },
         "width": "50%",
         "left": "8%"
@@ -45,7 +44,7 @@
       "props": {
         "discreet": true,
         "selectedType": "monthly",
-        "hideTypeSwitch": false,
+        "hideTypeSwitch": true,
         "monthly": [
           { 
             "sticker": "JUST NU!",

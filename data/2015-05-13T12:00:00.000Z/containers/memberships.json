@@ -9,9 +9,18 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Vilket medlemskap passar dig bäst?",
+        "label": "Helgerbjudande!",
         "align": "center",
         "strength": 1
+      }
+    },
+    {
+      "type": "text-element",
+      "order": 0.1,
+      "props": {
+        "label": "Betala hela bindningstiden direkt och få Viktklubb i 3 månader till halva priset – 149 kr (ord pris 297 kr)*",
+        "align": "center",
+        "fontSize": "20"
       }
     },
     {
@@ -44,7 +53,7 @@
       "order": 1,
       "props": {
         "discreet": true,
-        "selectedType": "monthly",
+        "selectedType": "total",
         "hideTypeSwitch": false,
         "monthly": [
           { 
@@ -65,23 +74,31 @@
         ],
         "total": [
           { 
-            "sticker": "JUST NU!",
+            "sticker": "",
             "cta": "Välj",
             "offer": "twelve-months-upfront"
           },
           { 
-            "sticker": "JUST NU!",
+            "sticker": "",
             "cta": "Välj",
             "offer": "six-months-upfront"
           },
           { 
-            "sticker": "",
+            "sticker": "JUST NU!",
             "cta": "Välj",
             "offer": "three-months-upfront"
           }
         ]
       }
         
+    },
+    {
+      "type": "text-element",
+      "order": "1.9",
+      "props": {
+        "label": "* Helgerbjudandet gäller endast Viktklubbs 3 månaders abonnemang vid betalning av hela bindningstiden direkt. Erbjudandet gäller till den 18 maj 2015.",
+        "fontSize": "12"
+      }
     },
     {
       "type": "features",
