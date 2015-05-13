@@ -1,0 +1,19 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "margin": true,
+    "background": "white"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Hör våra medlemmar berätta",
+        "align": "center",
+        "strength": 2
+      }
+    }
+  ]
+}
