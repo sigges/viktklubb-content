@@ -1,6 +1,6 @@
 {
   "payment": {
-    "externalHost": "http://login.aftonbladet.se",
+    "externalHost": "https://login.aftonbladet.se",
     "path": "purchase",
     "productQuery": "product_id",
     "campaignQuery": "campaign_id",
@@ -28,10 +28,10 @@
       },
       "three-months-upfront": {
         "months": 3,
-        "price": 297,
+        "price": 149,
         "unit": "kr",
-        "productId": "202991",
-        "campaignId": "10944"
+        "productId": "203099",
+        "campaignId": "10972"
       },
       "six-months-upfront": {
         "months": 6,
@@ -52,7 +52,7 @@
   "pages": {
     "frontpage": {
       "containers": [
-        "banner",
+        "ettan-banner",
         "conversionVideo",
         "bmi-calculator",
         "bmi-range-display",

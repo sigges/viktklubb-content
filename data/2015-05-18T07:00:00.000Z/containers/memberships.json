@@ -16,7 +16,7 @@
     },
     {
       "type": "img-sticker",
-      "order": 0.1,
+      "order": 0.2,
       "props": {
         "image": {
           "imageId": "20594508",
