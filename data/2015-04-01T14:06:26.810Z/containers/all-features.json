@@ -44,7 +44,7 @@
             "type": "feature-element",
             "order": "3",
             "props": {
-              "image": "logbook",
+              "image": "loggbok",
               "title": "Personlig loggbok",
               "body": "Logga allt du äter och tränar så håller loggboken koll på kalorierna."
             }
