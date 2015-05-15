@@ -1,0 +1,26 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Allt det här får du med Viktklubb",
+        "strength": 2,
+        "align": "center",
+        "color": "primary3"
+      }
+    },
+    {
+      "type": "all-features",
+      "order": 0,
+      "props": {
+      }
+    }
+  ]
+}
