@@ -84,16 +84,16 @@
     
     "article-top-ad": {
       "containers": [
-        "bmi-calculator",
-        "bmi-range-display",
-        "bmi-result-cta",
-        "all-features"
+        "article-cta"
       ]
     },
     
     "article-bottom-ad": {
       "containers": [
-        "article-cta"
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "all-features"
       ]
     },
     "memberships": {
