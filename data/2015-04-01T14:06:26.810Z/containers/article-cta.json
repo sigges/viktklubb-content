@@ -1,6 +1,8 @@
 {
   "props": {
-    "empty": true
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
   },
   "items": [
     {
