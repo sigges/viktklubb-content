@@ -4,7 +4,7 @@
   },
   "items": [
     {
-      "type": "experts",
+      "type": "cta-element",
       "order": "0",
       "props": {
       }
