@@ -81,6 +81,21 @@
         "testimonials"
       ]
     },
+    
+    "article-top-ad": {
+      "containers": [
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "all-features"
+      ]
+    },
+    
+    "article-bottom-ad": {
+      "containers": [
+        "article-cta"
+      ]
+    },
     "memberships": {
       "containers": [
         "memberships"
