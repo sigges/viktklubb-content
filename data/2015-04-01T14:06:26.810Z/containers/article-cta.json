@@ -4,10 +4,9 @@
   },
   "items": [
     {
-      "type": "video-element",
-      "order": "1",
+      "type": "cta-element",
+      "order": "0",
       "props": {
-        "vimeoId": "121459493"
       }
     }
   ]
