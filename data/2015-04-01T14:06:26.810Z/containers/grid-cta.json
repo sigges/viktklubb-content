@@ -12,7 +12,7 @@
       "props": {
         "label": "Gå med idag du också",
         "align": "center",
-        "block": true
+        "margin": "0px 0px 50px 0px"
       }
     }
   ]
