@@ -10,7 +10,7 @@
       "type": "cta-element",
       "order": 0,
       "props": {
-        "label": "Gå med idag du också",
+        "label": "Gå med du också!",
         "align": "center",
         "size": "big",
         "margin": "0px 0px 50px 0px"
