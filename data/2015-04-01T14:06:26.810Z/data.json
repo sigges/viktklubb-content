@@ -93,7 +93,8 @@
         "bmi-calculator",
         "bmi-range-display",
         "bmi-result-cta",
-        "all-features"
+        "all-features",
+        "grid-cta"
       ]
     },
     "memberships": {
