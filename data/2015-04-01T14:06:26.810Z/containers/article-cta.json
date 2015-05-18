@@ -1,0 +1,13 @@
+{
+  "props": {
+    "empty": true
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": "0",
+      "props": {
+      }
+    }
+  ]
+}
