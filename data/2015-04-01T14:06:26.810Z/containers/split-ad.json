@@ -28,7 +28,7 @@
             "square": "http://gfx1.aftonbladet-cdn.se/image/20680791/160/square/f1504c8095ff2/Tr%C3%A4ningsprogram",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680791/481/thirteenByNine/d9503d0ac3ff2/Tr%C3%A4ningsprogram",
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680791/480/widescreen/b3c00c268eff2/Tr%C3%A4ningsprogram",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20680791.ab/binary/Träningsprogram"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680791.ab/BINARY/Träningsprogram"
           },
           "alt": "Träningsprogram med Mårten Nylén",
           "format": "binary"
@@ -45,7 +45,7 @@
             "square": "http://gfx1.aftonbladet-cdn.se/image/20680783/160/square/1e1c302c6ef38/M%C3%A5rten+Nyl%C3%A9n+half-size",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680783/481/thirteenByNine/a16d9a79c6f38/M%C3%A5rten+Nyl%C3%A9n+half-size",
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680783/480/widescreen/85c3e23ae0f38/M%C3%A5rten+Nyl%C3%A9n+half-size",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20680783.ab/binary/Mårten Nylén half-size"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680783.ab/BINARY/Mårten Nylén half-size"
           },
           "alt": "Mårten Nylén",
           "format": "binary"
@@ -62,7 +62,7 @@
             "square": "http://gfx1.aftonbladet-cdn.se/image/20680803/160/square/664c56758433c/Viktklubbs+app",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680803/481/thirteenByNine/be2ae988a133c/Viktklubbs+app",
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680803/480/widescreen/628368684f33c/Viktklubbs+app",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20680803.ab/binary/Viktklubbs app"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680803.ab/BINARY/Viktklubbs app"
           },
           "alt": "Viktklubbs mobilapp",
           "format": "binary"
@@ -79,7 +79,7 @@
             "square": "http://gfx1.aftonbladet-cdn.se/image/20680809/160/square/0edaeb19e86b4/Appstore",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680809/481/thirteenByNine/a415ddb2546b4/Appstore",
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680809/480/widescreen/a5743a52fd6b4/Appstore",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20680809.ab/binary/Appstore"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680809.ab/BINARY/Appstore"
           },
           "alt": "Download on the App Store",
           "format": "binary"
@@ -96,7 +96,7 @@
             "square": "http://gfx1.aftonbladet-cdn.se/image/20680814/160/square/2a98d75fe895c/Google+play",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680814/481/thirteenByNine/f91838306c95c/Google+play",
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680814/480/widescreen/371db3481995c/Google+play",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20680814.ab/binary/Google play"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680814.ab/BINARY/Google play"
           },
           "alt": "Android app on Google play",
           "format": "binary"
@@ -113,7 +113,7 @@
             "square": "http://gfx1.aftonbladet-cdn.se/image/20680790/160/square/a28cc6dc9c676/Nyhetsribbon",
             "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680790/481/thirteenByNine/62ab4aa22b676/Nyhetsribbon",
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680790/480/widescreen/85871f0fd2676/Nyhetsribbon",
-            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article20680790.ab/binary/Nyhetsribbon"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680790.ab/BINARY/Nyhetsribbon"
           },
           "alt": "Nyheter!",
           "format": "binary"
