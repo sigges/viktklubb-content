@@ -27,7 +27,7 @@
       "type": "text-element",
       "order": 1.9,
       "props": {
-        "label": "* Halva priset-erbjudandet gäller endast Viktklubbs 3 månaders abonnemang vid betalning av hela bindningstiden direkt. Erbjudandet gäller till den 24 maj 2015."
+        "label": "* Halva priset-erbjudandet gäller endast Viktklubbs 3 månaders abonnemang vid betalning av hela bindningstiden direkt. Erbjudandet gäller till och med den 24 maj 2015."
       }
     },
     {
@@ -91,7 +91,7 @@
             "offer": "six-months-upfront"
           },
           { 
-            "sticker": "",
+            "sticker": "Just nu!",
             "cta": "Välj",
             "offer": "three-months-upfront"
           }
