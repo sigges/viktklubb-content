@@ -20,7 +20,7 @@
       "props": {
         "label": "Betala hela bindningstiden direkt och få Viktklubb i 3 månader till halva priset – 149 kr (ord pris 297 kr)*",
         "align": "center",
-        "fontSize": 20
+        "fontSize": "20"
       }
     },
     {
