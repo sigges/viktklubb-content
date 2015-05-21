@@ -1,0 +1,15 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "testimonials",
+      "order": 0,
+      "props": {
+      }
+    }
+  ]
+}

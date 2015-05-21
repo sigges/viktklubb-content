@@ -1,0 +1,16 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": true
+  },
+  "items": [
+    {
+      "type": "vk-features",
+      "order": 0,
+      "props": {
+      }
+    }
+  ]
+}
