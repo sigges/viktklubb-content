@@ -66,8 +66,7 @@
     "bmi": {
       "containers": [
         "bmi-calculator",
-        "bmi-range-display",
-        "bmi-result-cta",
+        "bmi-date-result",
         "testimonials"
       ]
     },
