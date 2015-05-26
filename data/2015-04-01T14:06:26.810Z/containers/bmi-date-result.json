@@ -11,6 +11,17 @@
       "order": "0",
       "props": {
       }
+    },
+    {
+      "type": "intro",
+      "order": 0,
+      "props": {
+        "items": [
+          "Viktminsknings&#173metod utvecklad i samarbete med <span class=\"no-wrap\">Karolinska Institutet</span>",
+          "Dagligt mat&#173schema med smala och nyttiga recept, anpassade efter ditt personliga kaloribehov",
+          "Experthjälp inom hälsosam kost, träning och motivation"
+        ]
+      }
     }
   ]
 }
