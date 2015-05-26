@@ -1,6 +1,6 @@
 {
   "props": {
-    "shadowBox": false,
+    "shadowBox": true,
     "width": "full",
     "margin": false
   },
