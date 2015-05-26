@@ -67,6 +67,7 @@
       "containers": [
         "bmi-calculator",
         "bmi-date-result",
+        "bmi-case-match",
         "testimonials"
       ]
     },
