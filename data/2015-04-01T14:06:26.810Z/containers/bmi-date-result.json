@@ -6,7 +6,7 @@
   },
   "items": [
     {
-      "type": "bmi-range-display",
+      "type": "bmi-date-result",
       "order": "0",
       "props": {
       }
