@@ -2,7 +2,7 @@
   "props": {
     "shadowBox": false,
     "width": "full",
-    "margin": true
+    "margin": false
   },
   "items": [
     {
