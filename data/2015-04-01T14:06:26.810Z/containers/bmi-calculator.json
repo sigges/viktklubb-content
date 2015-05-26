@@ -1,6 +1,6 @@
 {
   "props": {
-    "shadowBox": true,
+    "shadowBox": false,
     "width": "full",
     "contentPadding": true,
     "margin": true
