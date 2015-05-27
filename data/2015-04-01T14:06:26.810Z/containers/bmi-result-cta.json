@@ -34,7 +34,7 @@
             "ctaOffer": "three-months-monthly",
             "ctaMonths": 3,
             "ctaPrice": 99,
-            "offerInfo": "3 mån bindingstid á 99 kr/månad"
+            "offerInfo": "3 mån bindningstid á 99 kr/månad"
           },
           {
             "months": 7,
@@ -44,7 +44,7 @@
             "ctaOffer": "six-months-monthly",
             "ctaMonths": 6,
             "ctaPrice": 89,
-            "offerInfo": "6 mån bindingstid á 89 kr/månad"
+            "offerInfo": "6 mån bindningstid á 89 kr/månad"
           },
           {
             "months": 13,
@@ -54,7 +54,7 @@
             "ctaOffer": "twelve-months-monthly",
             "ctaMonths": 12,
             "ctaPrice": 79,
-            "offerInfo": "12 mån bindingstid á 79 kr/månad"
+            "offerInfo": "12 mån bindningstid á 79 kr/månad"
           }
         ]
       }
