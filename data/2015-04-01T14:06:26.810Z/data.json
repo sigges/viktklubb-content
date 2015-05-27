@@ -63,12 +63,38 @@
         "testimonials"
       ]
     },
+    "vk-content": {
+      "containers": [
+        "welcome-letter",
+        "member-reflections",
+        "experts",
+        "all-features",
+        "workoutWithMarten",
+        "memberships"
+      ]
+    },
     "bmi": {
       "containers": [
         "bmi-calculator",
         "bmi-range-display",
         "bmi-result-cta",
         "testimonials"
+      ]
+    },
+    
+    "article-top-ad": {
+      "containers": [
+        "article-cta"
+      ]
+    },
+    
+    "article-bottom-ad": {
+      "containers": [
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "all-features",
+        "grid-cta"
       ]
     },
     "memberships": {

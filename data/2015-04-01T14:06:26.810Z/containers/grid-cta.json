@@ -1,0 +1,20 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": true
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": 0,
+      "props": {
+        "label": "Gå med du också!",
+        "align": "center",
+        "size": "big",
+        "margin": "0px 0px 50px 0px"
+      }
+    }
+  ]
+}
