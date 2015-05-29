@@ -2,7 +2,8 @@
   "props": {
     "empty": true,
     "shadowBox": false,
-    "margin": false
+    "margin": false,
+    "label": "HELGERBJUDANDE! Just nu får du 3 månader till halva priset!"
   },
   "items": [
     {
