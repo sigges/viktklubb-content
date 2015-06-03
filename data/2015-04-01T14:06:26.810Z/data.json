@@ -73,7 +73,7 @@
     },
     "goal": {
       "containers": [
-        "bmi-calculator",
+        "goal-calculator",
         "bmi-date-result",
         "bmi-case-match",
         "split-ad"
