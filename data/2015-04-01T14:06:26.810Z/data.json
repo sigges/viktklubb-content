@@ -66,6 +66,14 @@
     "bmi": {
       "containers": [
         "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "split-ad"
+      ]
+    },
+    "goal": {
+      "containers": [
+        "bmi-calculator",
         "bmi-date-result",
         "bmi-case-match",
         "split-ad"
