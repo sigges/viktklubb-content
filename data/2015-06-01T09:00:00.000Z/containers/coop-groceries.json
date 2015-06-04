@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "20901745",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20901745/234/extraWide/af0e0ffd01187/halsokassen_viktklubbkampanj.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20901745/160/fourByThree/25c2a81cff187/halsokassen_viktklubbkampanj.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20901745/160/imageColumn/4bcd5d7044187/halsokassen_viktklubbkampanj.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20901745/336/imageColumnDouble/344a8bab18187/halsokassen_viktklubbkampanj.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20901745/333/nineBythirteen/21393376d9187/halsokassen_viktklubbkampanj.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20901745/480/normal/eb8e2608bd187/halsokassen_viktklubbkampanj.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20901745/160/square/9a3cf781cb187/halsokassen_viktklubbkampanj.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20901745/481/thirteenByNine/a4e064767f187/halsokassen_viktklubbkampanj.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20901745/480/widescreen/ba9ef86dad187/halsokassen_viktklubbkampanj.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20901745.ab/BINARY/halsokassen_viktklubbkampanj.png"
+          },
+          "alt": "Hälsokassen",
+          "format": "binary"
+        },
+        "header": "I samarbete med Coop lanserar vi nu Hälsokassen",
+        "ctaAdd": "Endast 599kr",
+        "ctaHref": "http://bit.ly/hälsokassen",
+        "ctaLabel": "Köp direkt!",
+        "disclaimer": "",
+        "body": "Hälsokassen hjälper dig att laga både nyttig och god mat."
+      }
+    }
+  ]
+}
