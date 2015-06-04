@@ -13,26 +13,26 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "20761151",
+          "imageId": "20909748",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20761151/234/extraWide/e5349fc89575f/cristian-johanna-with-splash.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20761151/160/fourByThree/3ab6b3ce3c75f/cristian-johanna-with-splash.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20761151/160/imageColumn/444a969fd675f/cristian-johanna-with-splash.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20761151/336/imageColumnDouble/1d1dc8fbf875f/cristian-johanna-with-splash.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20761151/333/nineBythirteen/c1189e1d3a75f/cristian-johanna-with-splash.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/20761151/480/normal/ffb98545b075f/cristian-johanna-with-splash.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/20761151/160/square/bd9fab7d1575f/cristian-johanna-with-splash.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20761151/481/thirteenByNine/2a2cdc929275f/cristian-johanna-with-splash.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20761151/480/widescreen/f70d7fa32d75f/cristian-johanna-with-splash.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20761151.ab/BINARY/cristian-johanna-with-splash.png"
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20909748/234/extraWide/602dda9a4fff6/wet-cat.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20909748/160/fourByThree/d1edd48522ff6/wet-cat.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20909748/160/imageColumn/607c1456f0ff6/wet-cat.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20909748/336/imageColumnDouble/ab48d99a6bff6/wet-cat.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20909748/333/nineBythirteen/17bed406d1ff6/wet-cat.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20909748/480/normal/0b183a643cff6/wet-cat.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20909748/160/square/dd60d68814ff6/wet-cat.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20909748/481/thirteenByNine/6cded1ffccff6/wet-cat.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20909748/480/widescreen/538360827bff6/wet-cat.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20909748.ab/BINARY/wet-cat.png"
           },
-          "alt": "Cristian och Johanna",
+          "alt": "Blöt katt",
           "format": "binary"
         },
-        "header": "Kom i form till sommaren med Viktklubb",
+        "header": "Du kan räkna med Mig",
         "ctaAdd": "Från 79:- i månaden",
         "ctaHref": "/kampanj/blimedlem",
-        "ctaLabel": "Börja idag!",
+        "ctaLabel": "Mjaooooo!!!!!!",
         "disclaimer": "* gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 2015-06-21",
         "body": "Vi ger dig verktygen för en hälsosam livsstil"
       }
