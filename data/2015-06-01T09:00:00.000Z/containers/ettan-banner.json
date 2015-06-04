@@ -13,28 +13,28 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "20761151",
+          "imageId": "20901745",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20761151/234/extraWide/e5349fc89575f/cristian-johanna-with-splash.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20761151/160/fourByThree/3ab6b3ce3c75f/cristian-johanna-with-splash.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20761151/160/imageColumn/444a969fd675f/cristian-johanna-with-splash.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20761151/336/imageColumnDouble/1d1dc8fbf875f/cristian-johanna-with-splash.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20761151/333/nineBythirteen/c1189e1d3a75f/cristian-johanna-with-splash.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/20761151/480/normal/ffb98545b075f/cristian-johanna-with-splash.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/20761151/160/square/bd9fab7d1575f/cristian-johanna-with-splash.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20761151/481/thirteenByNine/2a2cdc929275f/cristian-johanna-with-splash.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20761151/480/widescreen/f70d7fa32d75f/cristian-johanna-with-splash.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20761151.ab/BINARY/cristian-johanna-with-splash.png"
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20901745/234/extraWide/af0e0ffd01187/halsokassen_viktklubbkampanj.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20901745/160/fourByThree/25c2a81cff187/halsokassen_viktklubbkampanj.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20901745/160/imageColumn/4bcd5d7044187/halsokassen_viktklubbkampanj.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20901745/336/imageColumnDouble/344a8bab18187/halsokassen_viktklubbkampanj.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20901745/333/nineBythirteen/21393376d9187/halsokassen_viktklubbkampanj.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20901745/480/normal/eb8e2608bd187/halsokassen_viktklubbkampanj.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20901745/160/square/9a3cf781cb187/halsokassen_viktklubbkampanj.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20901745/481/thirteenByNine/a4e064767f187/halsokassen_viktklubbkampanj.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20901745/480/widescreen/ba9ef86dad187/halsokassen_viktklubbkampanj.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20901745.ab/BINARY/halsokassen_viktklubbkampanj.png"
           },
-          "alt": "Cristian och Johanna",
+          "alt": "Hälsokassen",
           "format": "binary"
         },
-        "header": "Kom i form till sommaren med Viktklubb",
-        "ctaAdd": "Från 79:- i månaden",
+        "header": "Du kan räkna med oss - vi hjälper dig till en hälsosam livsstil",
+        "ctaAdd": "1 kr första månaden *",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": "Börja idag!",
-        "disclaimer": "* gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 2015-06-21",
-        "body": "Vi ger dig verktygen för en hälsosam livsstil"
+        "disclaimer": "* 1 kr första månaden, därefter löper ditt abonnemang automatiskt vidare för 99 kr/månad. Ingen bindningstid eller uppsägningstid.",
+        "body": "Verktygen du behöver för mat, motion och motivation"
       }
     }
   ]
