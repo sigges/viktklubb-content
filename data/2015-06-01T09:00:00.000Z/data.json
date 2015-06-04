@@ -53,7 +53,7 @@
     "frontpage": {
       "containers": [
         "ettan-banner",
-        "coop-groceries"
+        "coop-groceries",
         "conversionVideo",
         "bmi-calculator",
         "bmi-range-display",
