@@ -31,7 +31,7 @@
         },
         "header": "Du kan räkna med oss - vi hjälper dig till en hälsosam livsstil",
         "ctaAdd": "1 kr första månaden *",
-        "ctaHref": "/kampanj/blimedlem",
+        "ctaHref": "https://login.aftonbladet.se/purchase?product_id=203108&service=vikt&campaign_id=10974&returnPath=http%3A%2F%2Fviktklubb.aftonbladet.se%2Fv4%2Fstart",
         "ctaLabel": "Börja idag!",
         "disclaimer": "* 1 kr första månaden, därefter löper ditt abonnemang automatiskt vidare för 99 kr/månad. Ingen bindningstid eller uppsägningstid.",
         "body": "Verktygen du behöver för mat, motion och motivation"
