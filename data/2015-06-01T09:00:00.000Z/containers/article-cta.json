@@ -9,6 +9,7 @@
       "type": "cta-element",
       "order": "0",
       "props": {
+        "label": "Just nu: Prova Viktklubb för 1kr – utan bindningstid!"
       }
     }
   ]
