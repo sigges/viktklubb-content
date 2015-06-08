@@ -83,6 +83,7 @@
     
     "article-top-ad": {
       "containers": [
+        "article-cta"
       ]
     },
     
