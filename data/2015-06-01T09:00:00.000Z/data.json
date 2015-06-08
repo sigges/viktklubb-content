@@ -54,14 +54,13 @@
       "containers": [
         "ettan-banner",
         "coop-groceries",
-        "conversionVideo",
+        "split-ad",
+        "testimonials",
         "bmi-calculator",
         "bmi-range-display",
         "bmi-result-cta",
-        "intro-box",
-        "split-ad",
         "vk-features",
-        "testimonials"
+        "conversionVideo"
       ]
     },
     "vk-content": {
