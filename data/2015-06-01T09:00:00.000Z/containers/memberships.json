@@ -30,7 +30,7 @@
       "order": 3,
       "props": {
         "safetyNote": "Betala säkert",
-        "disclaimer": "Samtliga abonnemang fortsätter efter vald bindningstid, för samma månadsavgift som tidigare, så länge du önskar vara medlem. Du säger själv upp ditt abonnemang."
+        "disclaimer": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "label": "Bli medlem!",
         "size": "big",
         "color": "primary1",
-        "href": "/kampanj/blimedlem"
+        "href": "https://login.aftonbladet.se/purchase?product_id=203108&service=vikt&campaign_id=10974&returnPath=http%3A%2F%2Fviktklubb.aftonbladet.se%2Fv4%2Fstart"
       }
     },
     {
