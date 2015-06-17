@@ -1,0 +1,105 @@
+{
+  "payment": {
+    "externalHost": "https://login.aftonbladet.se",
+    "path": "purchase",
+    "productQuery": "product_id",
+    "campaignQuery": "campaign_id",
+    "offers": {
+      "three-months-monthly": {
+        "months": 3,
+        "price": 149,
+        "unit": "kr/månad",
+        "productId": "203215",
+        "campaignId": "10990"
+      },
+      "six-months-monthly": {
+        "months": 6,
+        "price": 129,
+        "unit": "kr/månad",
+        "productId": "203216",
+        "campaignId": "10990"
+      },
+      "twelve-months-monthly": {
+        "months": 12,
+        "price": 79,
+        "unit": "kr/månad",
+        "productId": "203203",
+        "campaignId": "10990"
+      },
+      "three-months-upfront": {
+        "months": 3,
+        "price": 224,
+        "unit": "kr",
+        "productId": "203219",
+        "campaignId": "10991"
+      },
+      "six-months-upfront": {
+        "months": 6,
+        "price": 774,
+        "unit": "kr",
+        "productId": "203218",
+        "campaignId": "10991"
+      },
+      "twelve-months-upfront": {
+        "months": 12,
+        "price": 948,
+        "unit": "kr",
+        "productId": "203204",
+        "campaignId": "10991"
+      }
+    }
+  },
+  "pages": {
+    "frontpage": {
+      "containers": [
+        "ettan-banner",
+        "split-ad",
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "intro-box",
+        "conversionVideo",
+        "vk-features",
+        "testimonials"
+      ]
+    },
+    "vk-content": {
+      "containers": [
+        "welcome-letter",
+        "member-reflections",
+        "experts",
+        "all-features",
+        "workoutWithMarten",
+        "memberships"
+      ]
+    },
+    "bmi": {
+      "containers": [
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "testimonials"
+      ]
+    },
+    
+    "article-top-ad": {
+      "containers": [
+      ]
+    },
+    
+    "article-bottom-ad": {
+      "containers": [
+        "bmi-calculator",
+        "bmi-range-display",
+        "bmi-result-cta",
+        "all-features",
+        "grid-cta"
+      ]
+    },
+    "memberships": {
+      "containers": [
+        "memberships"
+      ]
+    }
+  }
+}
