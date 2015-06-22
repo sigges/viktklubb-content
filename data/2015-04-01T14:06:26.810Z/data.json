@@ -78,7 +78,15 @@
         "bmi-calculator",
         "bmi-range-display",
         "bmi-result-cta",
-        "testimonials"
+        "split-ad"
+      ]
+    },
+    "goal": {
+      "containers": [
+        "goal-calculator",
+        "bmi-date-result",
+        "bmi-case-match",
+        "split-ad"
       ]
     },
     

@@ -1,0 +1,15 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "bmi-case-match",
+      "order": "0",
+      "props": {
+      }
+    }
+  ]
+}
