@@ -9,6 +9,189 @@
       "type": "bmi-case-match",
       "order": "0",
       "props": {
+        "header": {
+          "label": "Varje dag går nya medlemmar i mål",
+          "strength": 2,
+          "align": "center"
+        },
+        "cases": [
+          {
+            "name": "Cristian",
+            "beforeWeight": 112,
+            "afterWeight": 73,
+            "quote": "Mest inspirerande var recepttipsen och de andra medlemmarnas framgångshistorier.",
+            "afterImage": {
+              "imageId": "20858967",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20858967.ab/BINARY/CristianSarmiento_e.png"
+              },
+              "alt": "Cristian Sarmiento efter 39 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "20858971",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20858971.ab/BINARY/CristianSarmiento_f.png"
+              },
+              "alt": "Cristian Sarmiento före 39 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Andreas",
+            "beforeWeight": 96,
+            "afterWeight": 78,
+            "quote": "I dag använder jag loggboken såväl till träningsdagbok som för att räkna kalorier.",
+            "afterImage": {
+              "imageId": "20860582",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20860582.ab/BINARY/andreas_andersson_e.png"
+              },
+              "alt": "Andreas Andersson efter 18 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "20860585",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20860585.ab/BINARY/andreas_andersson_f.png"
+              },
+              "alt": "Andreas Andersson före 18 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Camilla",
+            "beforeWeight": 87,
+            "afterWeight": 64,
+            "quote": "Appen fick det att funka för mig!",
+            "beforeImage": {
+              "imageId": "20860620",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20860620.ab/BINARY/CamillaBengtsson_f.png"
+              },
+              "alt": "Camilla Bengtsson före 23 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "afterImage": {
+              "imageId": "20860619",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20860619.ab/BINARY/CamillaBengtsson_e.png"
+              },
+              "alt": "Camilla Bengtsson efter 23 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Cecilia",
+            "beforeWeight": 93,
+            "afterWeight": 69,
+            "quote": "Idag har jag lärt mig vad en portion mat är. Idag äter jag alltid lagad mat.",
+            "afterImage": {
+              "imageId": "20860633",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20860633.ab/BINARY/CeciliaWestberg_e.png"
+              },
+              "alt": "Cecilia Westberg efter 24 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "20860635",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20860635.ab/BINARY/CeciliaWestberg_f.png"
+              },
+              "alt": "Cecilia Westberg före 24 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Ann-Sofie",
+            "beforeWeight": 93,
+            "afterWeight": 80,
+            "quote": "Jag är ett riktigt godismonster. Till slut vägde jag 98 kilo och då bestämde jag mig för att det fick vara nog.",
+            "afterImage": {
+              "imageId": "21005268",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005268.ab/BINARY/annsofiekarlsson_e.png"
+              },
+              "alt": "Ann-Sofie Karlsson efter 13 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "21005273",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005273.ab/BINARY/annsofiekarlsson_f.png"
+              },
+              "alt": "Ann-Sofie Karlsson före 13 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Fanny",
+            "beforeWeight": 119,
+            "afterWeight": 74,
+            "quote": "Det är viktigt att ha koll på sina framgångar, för det spelar ingen roll hur mycket man går ner i vikt om man inte förstår varför.",
+            "afterImage": {
+              "imageId": "21005277",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005277.ab/BINARY/fannyAkerblom_e.png"
+              },
+              "alt": "Fanny Åkerblom efter 45 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "21005279",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005279.ab/BINARY/fannyAkerblom_f.png"
+              },
+              "alt": "Fanny Åkerblom före 45 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Frida",
+            "beforeWeight": 84,
+            "afterWeight": 58,
+            "quote": "När du går ner i vikt får du hela tiden en belöning när du ställer sig på vågen.",
+            "afterImage": {
+              "imageId": "21005281",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005281.ab/BINARY/frida_andreasson_e.png"
+              },
+              "alt": "Frida Andreasson efter 26 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "21005283",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005283.ab/BINARY/frida_andreasson_f.png"
+              },
+              "alt": "Frida Andreasson före 26 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          },
+          {
+            "name": "Håkan",
+            "beforeWeight": 115,
+            "afterWeight": 88,
+            "quote": "Du måste inte göra avkall på god mat för att leva sunt.",
+            "afterImage": {
+              "imageId": "21005287",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005287.ab/BINARY/hakan_lindgren_e.png"
+              },
+              "alt": "Håkan Lindgren efter 27 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            },
+            "beforeImage": {
+              "imageId": "21005291",
+              "sources": {
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21005291.ab/BINARY/hakan_lindgren_f.png"
+              },
+              "alt": "Håkan Lindgren före 27 kg viktnedgång med Viktklubb",
+              "format": "binary"
+            }
+          }
+        ]
       }
     }
   ]
