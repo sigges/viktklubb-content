@@ -29,12 +29,12 @@
           "alt": "Spara 50%",
           "format": "binary"
         },
-        "header": "Gå ner upp till 1 kg i veckan*",
+        "header": "Viktklubbs metod? Mindre kalorier in än ut.",
         "ctaAdd": "",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": "Vänta inte - börja idag!",
-        "disclaimer": "*Viktminskning är individuell och vi kan därför inte lämna några garantier för hur mycket eller hur snabbt du kommer att gå ner i vikt.",
-        "body": "Vi har alla verktyg du behöver för att nå ditt mål"
+        "disclaimer": "",
+        "body": "Det behöver inte vara mer komplicerat - vi hjälper dig i mål!"
       }
     }
   ]
