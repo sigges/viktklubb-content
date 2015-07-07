@@ -10,42 +10,42 @@
         "price": 149,
         "unit": "kr/månad",
         "productId": "203215",
-        "campaignId": "10990"
+        "campaignId": "11023"
       },
       "six-months-monthly": {
         "months": 6,
         "price": 129,
         "unit": "kr/månad",
         "productId": "203216",
-        "campaignId": "10990"
+        "campaignId": "11023"
       },
       "twelve-months-monthly": {
         "months": 12,
         "price": 79,
         "unit": "kr/månad",
         "productId": "202989",
-        "campaignId": "10990"
+        "campaignId": "11023"
       },
       "three-months-upfront": {
         "months": 3,
-        "price": 224,
+        "price": 447,
         "unit": "kr",
-        "productId": "203219",
-        "campaignId": "10991"
+        "productId": "203217",
+        "campaignId": "11024"
       },
       "six-months-upfront": {
         "months": 6,
         "price": 774,
         "unit": "kr",
         "productId": "203218",
-        "campaignId": "10991"
+        "campaignId": "11024"
       },
       "twelve-months-upfront": {
         "months": 12,
         "price": 948,
         "unit": "kr",
         "productId": "202995",
-        "campaignId": "10991"
+        "campaignId": "11024"
       }
     }
   },
