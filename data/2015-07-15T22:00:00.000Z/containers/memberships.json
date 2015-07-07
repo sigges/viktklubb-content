@@ -4,7 +4,7 @@
       "order": 0, 
       "props": {
         "align": "center", 
-        "label": "3, 6 eller 12 månader - Vad passar dig bäst?", 
+        "label": "3, 6 eller 12 månader - vad passar dig bäst?", 
         "strength": 1
       }, 
       "type": "header"
