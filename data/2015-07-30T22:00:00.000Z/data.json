@@ -9,43 +9,43 @@
         "months": 3,
         "price": 149,
         "unit": "kr/månad",
-        "productId": "203215",
-        "campaignId": "10990"
+        "productId": "203203",
+        "campaignId": "11026"
       },
       "six-months-monthly": {
         "months": 6,
         "price": 129,
         "unit": "kr/månad",
-        "productId": "203216",
-        "campaignId": "10990"
+        "productId": "203238",
+        "campaignId": "11026"
       },
       "twelve-months-monthly": {
         "months": 12,
         "price": 79,
         "unit": "kr/månad",
-        "productId": "202989",
-        "campaignId": "10990"
+        "productId": "203203",
+        "campaignId": "11026"
       },
       "three-months-upfront": {
         "months": 3,
-        "price": 224,
+        "price": 299,
         "unit": "kr",
-        "productId": "203219",
-        "campaignId": "10991"
+        "productId": "203237",
+        "campaignId": "11025"
       },
       "six-months-upfront": {
         "months": 6,
-        "price": 774,
+        "price": 646,
         "unit": "kr",
-        "productId": "203218",
-        "campaignId": "10991"
+        "productId": "203236",
+        "campaignId": "11025"
       },
       "twelve-months-upfront": {
         "months": 12,
-        "price": 948,
+        "price": 870,
         "unit": "kr",
-        "productId": "202995",
-        "campaignId": "10991"
+        "productId": "203204",
+        "campaignId": "11025"
       }
     }
   },
@@ -53,13 +53,13 @@
     "frontpage": {
       "containers": [
         "ettan-banner",
+        "vk-features",
+        "intro-box",
+        "conversionVideo",
         "split-ad",
         "bmi-calculator",
         "bmi-range-display",
         "bmi-result-cta",
-        "intro-box",
-        "conversionVideo",
-        "vk-features",
         "testimonials"
       ]
     },
