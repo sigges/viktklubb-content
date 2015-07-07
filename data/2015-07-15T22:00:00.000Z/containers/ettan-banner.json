@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "order": "1", 
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        }, 
+        "body": "Viktlubb är ingen diet och inget hokus pokus. Vi tror på en sund viktnedgång och en hälsosam livsstil.", 
+        "ctaAdd": "Du kan räkna med oss!", 
+        "ctaHref": "/kampanj/blimedlem", 
+        "ctaLabel": "Börja idag!", 
+        "disclaimer": "", 
+        "header": "Vår metod? Kalorier in - Kalorier ut", 
+        "primaryImage": {
+          "alt": "Från 79kr i månaden", 
+          "format": "binary", 
+          "imageId": "21062098", 
+          "sources": {
+            "binary": "http://gfx.aftonbladet-  cdn.se/viktklubb/saljsida/saljbilder/article21062098.ab/BINARY/1.png", 
+            "extraWide": "http://gfx2.aftonbladet-  cdn.se/image/21062098/234/extraWide/fe55c6f1dfb28/1.png", 
+            "fourByThree": "http://gfx1.aftonbladet-  cdn.se/image/21062098/160/fourByThree/842b9963c6b28/1.png", 
+            "imageColumn": "http://gfx1.aftonbladet-  cdn.se/image/21062098/160/imageColumn/bb323490e1b28/1.png", 
+            "imageColumnDouble": "http://gfx.aftonbladet-  cdn.se/image/21062098/336/imageColumnDouble/ab369b04d3b28/1.png", 
+            "nineBythirteen": "http://gfx.aftonbladet-  cdn.se/image/21062098/333/nineBythirteen/027c7bfce9b28/1.png", 
+            "normal": "http://gfx2.aftonbladet-  cdn.se/image/21062098/480/normal/775dcb9a5bb28/1.png", 
+            "square": "http://gfx1.aftonbladet-  cdn.se/image/21062098/160/square/8630d0c6bbb28/1.png", 
+            "thirteenByNine": "http://gfx.aftonbladet-  cdn.se/image/21062098/481/thirteenByNine/a84f777ff0b28/1.png", 
+            "widescreen": "http://gfx2.aftonbladet-  cdn.se/image/21062098/480/widescreen/c5681402c9b28/1.png"
+          }
+        }
+      }, 
+      "type": "standard-banner-v2"
+    }
+  ], 
+  "props": {
+    "margin": false, 
+    "shadowBox": false, 
+    "width": "full"
+  }
+}
