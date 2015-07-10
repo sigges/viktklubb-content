@@ -1,0 +1,54 @@
+{
+  "stage": {
+    "payment": {
+      "externalHost": "http://stage.login.aftonbladet.se",
+      "path": "purchase",
+      "productQuery": "product_id",
+      "campaignQuery": "campaign_id",
+      "offers": {
+        "three-months-monthly": {
+          "months": 3,
+          "price": 99,
+          "unit": "kr/månad",
+          "productId": "200247",
+          "campaignId": "10020"
+        },
+        "six-months-monthly": {
+          "months": 6,
+          "price": 89,
+          "unit": "kr/månad",
+          "productId": "200249",
+          "campaignId": "10020"
+        },
+        "twelve-months-monthly": {
+          "months": 12,
+          "price": 79,
+          "unit": "kr/månad",
+          "productId": "200251",
+          "campaignId": "10020"
+        },
+        "three-months-upfront": {
+          "months": 3,
+          "price": 297,
+          "unit": "kr",
+          "productId": "200248",
+          "campaignId": "10051"
+        },
+        "six-months-upfront": {
+          "months": 6,
+          "price": 446,
+          "unit": "kr",
+          "productId": "200250",
+          "campaignId": "10051"
+        },
+        "twelve-months-upfront": {
+          "months": 12,
+          "price": 870,
+          "unit": "kr",
+          "productId": "200252",
+          "campaignId": "10051"
+        }
+      }
+    }
+  }
+}
