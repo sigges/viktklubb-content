@@ -13,18 +13,18 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "21080084",
+          "imageId": "21099758",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21080084/234/extraWide/8b35cb449515f/header_augusti_633x472px.jpg",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21080084/160/fourByThree/b326718a5415f/header_augusti_633x472px.jpg",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21080084/160/imageColumn/a610f4252315f/header_augusti_633x472px.jpg",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21080084/336/imageColumnDouble/e7115389f915f/header_augusti_633x472px.jpg",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21080084/333/nineBythirteen/d1e7c4f17215f/header_augusti_633x472px.jpg",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/21080084/480/normal/9ceda060b315f/header_augusti_633x472px.jpg",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/21080084/160/square/1ade71f0f315f/header_augusti_633x472px.jpg",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21080084/481/thirteenByNine/5788305af015f/header_augusti_633x472px.jpg",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21080084/480/widescreen/1f62de526e15f/header_augusti_633x472px.jpg",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21080084.ab/BINARY/header_augusti_633x472px.jpg"
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21099758/234/extraWide/61d6eb204a75c/header_augusti_633x472px_fri.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21099758/160/fourByThree/5ecbad2b0375c/header_augusti_633x472px_fri.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21099758/160/imageColumn/a1cc34210775c/header_augusti_633x472px_fri.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21099758/336/imageColumnDouble/ca633167a875c/header_augusti_633x472px_fri.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21099758/333/nineBythirteen/429d50c5fa75c/header_augusti_633x472px_fri.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21099758/480/normal/0ecb7611ba75c/header_augusti_633x472px_fri.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21099758/160/square/810ce4aed075c/header_augusti_633x472px_fri.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21099758/481/thirteenByNine/027531fc6f75c/header_augusti_633x472px_fri.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21099758/480/widescreen/e922c6c40075c/header_augusti_633x472px_fri.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21099758.ab/BINARY/header_augusti_633x472px_fri.png"
           },
           "alt": "Just nu! 1 kr första månaden",
           "format": "binary"
