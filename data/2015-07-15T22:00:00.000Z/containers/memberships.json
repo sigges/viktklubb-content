@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "order": 0, 
+      "props": {
+        "align": "center", 
+        "label": "3, 6 eller 12 månader - vad passar dig bäst?", 
+        "strength": 1
+      }, 
+      "type": "header"
+    }, 
+    {
+      "order": 1, 
+      "props": {
+        "discreet": true, 
+        "hideTypeSwitch": false, 
+        "image": {
+          "alt": "Gäller till 15 juli", 
+          "format": "binary", 
+          "imageId": "20947393", 
+          "sources": {
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/article20947393.ab/BINARY/splash_junikamp_pil.png", 
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20947393/234/extraWide/3143a30484168/splash_junikamp_pil.png", 
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20947393/160/fourByThree/ddaca5ece3168/splash_junikamp_pil.png", 
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20947393/160/imageColumn/8472bcc949168/splash_junikamp_pil.png  ", 
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20947393/336/imageColumnDouble/98b03c6915168/splash_junikamp  _pil.png", 
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20947393/333/nineBythirteen/72fe29b9ca168/splash_junikamp_pil.pn  g", 
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20947393/480/normal/3a814abbc5168/splash_junikamp_pil.png", 
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20947393/160/square/44295bf2b5168/splash_junikamp_pil.png", 
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20947393/481/thirteenByNine/5a959c89a4168/splash_junikamp_pil.pn  g", 
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20947393/480/widescreen/915e6c7762168/splash_junikamp_pil.png"
+          }
+        }, 
+        "left": "68%", 
+        "monthly": [
+          {
+            "cta": "Välj", 
+            "offer": "twelve-months-monthly", 
+            "sticker": "Spara 47%"
+          }, 
+          {
+            "cta": "Välj", 
+            "offer": "six-months-monthly", 
+            "sticker": "Spara 13%"
+          }, 
+          {
+            "cta": "Välj", 
+            "offer": "three-months-monthly", 
+            "sticker": ""
+          }
+        ], 
+        "selectedType": "monthly", 
+        "total": [
+          {
+            "cta": "Välj", 
+            "offer": "twelve-months-upfront", 
+            "sticker": "Spara 47%"
+          }, 
+          {
+            "cta": "Välj", 
+            "offer": "six-months-upfront", 
+            "sticker": "Spara 13%"
+          }, 
+          {
+            "cta": "Välj", 
+            "offer": "three-months-upfront", 
+            "sticker": ""
+          }
+        ], 
+        "width": "30%"
+      }, 
+      "type": "standard-offering"
+    }, 
+    {
+      "order": 2, 
+      "props": {
+        "items": [
+          "Personlig kostplan med dagliga menyförslag", 
+          "Experthjälp inom kost, motion och motivation", 
+          "Viktminskningsmetod utvecklad i samarbete med Karolinska Institutet"
+        ]
+      }, 
+      "type": "features"
+    }, 
+    {
+      "order": 3, 
+      "props": {
+        "disclaimer": "Samtliga abonnemang fortsätter efter vald bindningstid, för samma  månadsavgift som tidigare, så länge du önskar vara medlem. Du säger själv upp ditt  abonnemang.", 
+        "safetyNote": "Betala säkert"
+      }, 
+      "type": "disclaimer-footer"
+    }
+  ], 
+  "props": {
+    "margin": true, 
+    "shadowBox": true, 
+    "width": "single"
+  }
+}
