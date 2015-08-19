@@ -31,7 +31,7 @@
         },
         "header": "Exklusivt erbjudande för Aftonbladet Söndag - Spara 447kr*!",
         "ctaAdd": "",
-        "ctaHref": "/kampanj/blimedlem",
+        "ctaHref": "https://login.aftonbladet.se/purchase?product_id=203240&service=vikt&campaign_id=11027&returnPath=http%3A%2F%2Fviktklubb.aftonbladet.se%2Fv4%2Fstart",
         "ctaLabel": "Köp här!",
         "disclaimer": "*3 mån till ord pris 447kr samt 3 månader extra utan kostnad. Efter 6 månader löper abonnemanget vidare för 149kr/månad utan bindningstid. Du avslutar själv ditt abonnemangi.",
         "body": "Viktnedgång med Viktklubb bygger på tre ben - Mat, Motion, Motivation. Hos oss får du verktygen och kunskapen för en hälsosam livsstil."
