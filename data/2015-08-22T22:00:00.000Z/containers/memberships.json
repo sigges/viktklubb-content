@@ -1,0 +1,55 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Exklusivt Aftonbladet Söndag - 3+3 månader",
+        "align": "center",
+        "strength": 1
+      }
+    },
+    {
+      "type": "features",
+      "order": 2,
+      "props": {
+        "items": [
+          "Personlig kostplan med dagliga menyförslag",
+          "Experthjälp inom kost, motion och motivation",
+          "Viktminskningsmetod utvecklad i samarbete med Karolinska Institutet"
+        ]
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 3,
+      "props": {
+        "safetyNote": "Betala säkert",
+        "disclaimer": ""
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "align": "center",
+        "label": "Bli medlem!",
+        "size": "big",
+        "color": "primary1",
+        "href": "https://login.aftonbladet.se/purchase?product_id=203108&service=vikt&campaign_id=10974&returnPath=http%3A%2F%2Fviktklubb.aftonbladet.se%2Fv4%2Fstart"
+      }
+    },
+    {
+      "type": "text-element",
+      "order": "0.9",
+      "props": {
+        "label": "Exklusivt erbjudande för dig som läser Aftonbladet Söndag. Köp 3 månader så får du 3 månader extra på köpet till ett värde av 447kr (ord. pris 894). Efter bindningstiden löper abonnemanget vidare med 149kr/månad tills du väljer att säga upp det. "
+      }
+    }
+  ]
+}

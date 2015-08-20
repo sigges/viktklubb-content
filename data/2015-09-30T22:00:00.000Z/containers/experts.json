@@ -1,0 +1,16 @@
+
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "experts",
+      "order": 0,
+      "props": {
+      }
+    }
+  ]
+}
