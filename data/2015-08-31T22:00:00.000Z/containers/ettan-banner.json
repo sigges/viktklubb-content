@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21283195",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21283195/234/extraWide/bbc7b019c8129/header_puls_traning.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21283195/160/fourByThree/0961cf2bce129/header_puls_traning.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21283195/160/imageColumn/f2d21f69de129/header_puls_traning.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21283195/336/imageColumnDouble/bff3c0a863129/header_puls_traning.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21283195/333/nineBythirteen/ff5ff889e1129/header_puls_traning.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21283195/480/normal/6bff2509bc129/header_puls_traning.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21283195/160/square/0b0dae1fa1129/header_puls_traning.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21283195/481/thirteenByNine/f049231cec129/header_puls_traning.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21283195/480/widescreen/35edca7127129/header_puls_traning.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/article21283195.ab/BINARY/header_puls_traning.png"
+          },
+          "alt": "Viktklubb – Puls & Träning",
+          "format": "binary"
+        },
+        "header": "I samarbete med Puls&Träning - 2 veckors gratis medlemskap",
+        "ctaAdd": "Exklusivt för P&T",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja här!",
+        "disclaimer": "Se alla våra ordinare medlemskap under \"Bli medlem\"",
+        "body": "Testa Viktklubbs tjänst under 2 veckor, helt utan kostnad. Viktklubb ger dig alla verktyg du behöver för att nå en hälsosam livsstil. Välkommen till oss!"
+      }
+    }
+  ]
+}
