@@ -1,0 +1,40 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "testimonials",
+      "order": 0,
+      "props": {
+        "users": [
+          {
+            "image": "21312674",
+            "title": "Jeanette",
+            "tag": "-15 kg med Hälsovinsten",
+            "body": "Jag känner att jag har tagit kontroll över livet. När jag började låg jag på gränsen till fetma. Nu är jag normalviktig. Viktklubbs-appen var hela tiden till stor hjälp! Det känns i kroppen att jag gör rätt"
+          },
+          {
+            "image": "21312686",
+            "title": "Mikael",
+            "tag": "-12 kg med Hälsovinsten",
+            "body": "Framför allt har jag lärt mig att ha struktur och kontroll över mina matvanor. Sedan gillar jag att det finns både en dietist, psykolog och flera olika träningsexperter att tillgå. Jag vill kunna röra mig som äldre och leka med min son."
+          },
+          {
+            "image": "21312701",
+            "title": "Jenny",
+            "tag": "-10 kg med Hälsovinsten",
+            "body": "Nu vet jag ju både hur man gör och att jag kan! Det som har hjälpt mig är framför allt stödet jag har fått i Viktklubb. Jag har använt alla verktyg, från loggboken till bloggarna och nyheterna i magasinet. Jag känner mig stolt över mina 10kg!"
+          }
+        ],
+        "header": {
+          "align": "center",
+          "label": "Vi var med i Hälsovinsten förra gången!"
+        },
+        "showCta": false
+      }
+    }
+  ]
+}

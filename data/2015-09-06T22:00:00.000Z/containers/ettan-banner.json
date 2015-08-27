@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21099758",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21099758/234/extraWide/61d6eb204a75c/header_augusti_633x472px_fri.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21099758/160/fourByThree/5ecbad2b0375c/header_augusti_633x472px_fri.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21099758/160/imageColumn/a1cc34210775c/header_augusti_633x472px_fri.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21099758/336/imageColumnDouble/ca633167a875c/header_augusti_633x472px_fri.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21099758/333/nineBythirteen/429d50c5fa75c/header_augusti_633x472px_fri.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21099758/480/normal/0ecb7611ba75c/header_augusti_633x472px_fri.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21099758/160/square/810ce4aed075c/header_augusti_633x472px_fri.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21099758/481/thirteenByNine/027531fc6f75c/header_augusti_633x472px_fri.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21099758/480/widescreen/e922c6c40075c/header_augusti_633x472px_fri.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21099758.ab/BINARY/header_augusti_633x472px_fri.png"
+          },
+          "alt": "Just nu! 1 kr första månaden",
+          "format": "binary"
+        },
+        "header": "Beslutet är ditt – Målet når vi tillsammans",
+        "ctaAdd": "1 kr första månaden*",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Prova idag!",
+        "disclaimer": "*när du tecknar medlemskap i minst 3 månader",
+        "body": "Viktnedgång med Viktklubb bygger på tre ben - Mat, Motion, Motivation. Hos oss får du verktygen och kunskapen för en hälsosam livsstil."
+      }
+    }
+  ]
+}
