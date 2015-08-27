@@ -1,7 +1,3 @@
-Container testimonials.json:
-
-----------------------------------
-
 {
   "props": {
     "shadowBox": false,
