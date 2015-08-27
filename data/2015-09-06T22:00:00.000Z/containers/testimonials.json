@@ -11,70 +11,22 @@
       "props": {
         "users": [
           {
+            "image": "jeanette",
             "title": "Jeanette",
             "tag": "-15 kg med Hälsovinsten",
-            "body": "Jag känner att jag har tagit kontroll över livet. När jag började låg jag på gränsen till fetma. Nu är jag normalviktig. Viktklubbs-appen var hela tiden till stor hjälp! Det känns i kroppen att jag gör rätt",
-            "jeanette": {
-              "imageId": "21312674",
-              "sources": {
-                "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312674/234/extraWide/36db63eadeca3/jeanette.jpg",
-                "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312674/160/fourByThree/ae28cfb4c8ca3/jeanette.jpg",
-                "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312674/160/imageColumn/e134bca7aeca3/jeanette.jpg",
-                "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312674/336/imageColumnDouble/11b14a66ecca3/jeanette.jpg",
-                "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312674/333/nineBythirteen/e82de4c795ca3/jeanette.jpg",
-                "normal": "http://gfx2.aftonbladet-cdn.se/image/21312674/480/normal/b27130a70bca3/jeanette.jpg",
-                "square": "http://gfx1.aftonbladet-cdn.se/image/21312674/160/square/3db2d8f5c8ca3/jeanette.jpg",
-                "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312674/481/thirteenByNine/fa7ae91b97ca3/jeanette.jpg",
-                "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312674/480/widescreen/8efe9feb80ca3/jeanette.jpg",
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312674.ab/BINARY/jeanette.jpg"
-              },
-              "alt": "Jeanette gick ner 15 kg med Hälsovinsten",
-              "format": "binary"
-            }
+            "body": "Jag känner att jag har tagit kontroll över livet. När jag började låg jag på gränsen till fetma. Nu är jag normalviktig. Viktklubbs-appen var hela tiden till stor hjälp! Det känns i kroppen att jag gör rätt"
           },
           {
+            "image": "mikael",
             "title": "Mikael",
             "tag": "-12 kg med Hälsovinsten",
-            "body": "Framför allt har jag lärt mig att ha struktur och kontroll över mina matvanor. Sedan gillar jag att det finns både en dietist, psykolog och flera olika träningsexperter att tillgå. Jag vill kunna röra mig som äldre och leka med min son.",
-            "mikael": {
-              "imageId": "21312686",
-              "sources": {
-                "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312686/234/extraWide/aaa1b289cf50e/mikael.jpg",
-                "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312686/160/fourByThree/0a593dab2350e/mikael.jpg",
-                "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312686/160/imageColumn/8f25e72abd50e/mikael.jpg",
-                "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312686/336/imageColumnDouble/0f5d09719650e/mikael.jpg",
-                "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312686/333/nineBythirteen/3d2906dca550e/mikael.jpg",
-                "normal": "http://gfx2.aftonbladet-cdn.se/image/21312686/480/normal/59c873e7e650e/mikael.jpg",
-                "square": "http://gfx1.aftonbladet-cdn.se/image/21312686/160/square/40fdf0a0e750e/mikael.jpg",
-                "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312686/481/thirteenByNine/727407968350e/mikael.jpg",
-                "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312686/480/widescreen/c9e5bf459e50e/mikael.jpg",
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312686.ab/BINARY/mikael.jpg"
-              },
-              "alt": "Mikael gick ner 12 kg med Hälsovinsten",
-              "format": "binary"
-            }
+            "body": "Framför allt har jag lärt mig att ha struktur och kontroll över mina matvanor. Sedan gillar jag att det finns både en dietist, psykolog och flera olika träningsexperter att tillgå. Jag vill kunna röra mig som äldre och leka med min son."
           },
           {
+            "image": "jenny",
             "title": "Jenny",
             "tag": "-10 kg med Hälsovinsten",
-            "body": "Nu vet jag ju både hur man gör och att jag kan! Det som har hjälpt mig är framför allt stödet jag har fått i Viktklubb. Jag har använt alla verktyg, från loggboken till bloggarna och nyheterna i magasinet. Jag känner mig stolt över mina 10kg!",
-            "jenny": {
-              "imageId": "21312681",
-              "sources": {
-                "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312681/234/extraWide/e0bffe2beb8d7/jenny.jpg",
-                "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312681/160/fourByThree/a51988193c8d7/jenny.jpg",
-                "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312681/160/imageColumn/437a1b1e3a8d7/jenny.jpg",
-                "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312681/336/imageColumnDouble/3c5d0fc8688d7/jenny.jpg",
-                "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312681/333/nineBythirteen/def88a58928d7/jenny.jpg",
-                "normal": "http://gfx2.aftonbladet-cdn.se/image/21312681/480/normal/1f94b19dd78d7/jenny.jpg",
-                "square": "http://gfx1.aftonbladet-cdn.se/image/21312681/160/square/2aef6608698d7/jenny.jpg",
-                "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312681/481/thirteenByNine/05bde43f528d7/jenny.jpg",
-                "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312681/480/widescreen/345956bbd48d7/jenny.jpg",
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312681.ab/BINARY/jenny.jpg"
-              },
-              "alt": "Jenny gick ner 10 kg med Hälsovinsten",
-              "format": "binary"
-            }
+            "body": "Nu vet jag ju både hur man gör och att jag kan! Det som har hjälpt mig är framför allt stödet jag har fått i Viktklubb. Jag har använt alla verktyg, från loggboken till bloggarna och nyheterna i magasinet. Jag känner mig stolt över mina 10kg!"
           }
         ],
         "header": {
