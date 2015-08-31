@@ -15,46 +15,39 @@
         },
         "gain": {
           "body": "Du har valt en målvikt som är högre än din nuvarande vikt. Viktklubbs program är framtagna för dig som behöver gå ner eller hålla vikten. Om du tränar hårt och satsar på att öka din muskelmassa mycket snarare än att omfördela fett och muskler, eller om du bara vill gå upp lite i vikt, är Viktklubb troligen inte rätt verktyg för dig i dagsläget."
-          
         },
         "results": [
           {
             "months": 0,
-            "header": "1 kr första månaden!",
-            "body": "Visst är det spännande med små och stora förändringar i vardagen? Kom igång med en ny hälsosam livsstil redan idag. Bli medlem på Viktklubb från 79 kr/månad!",
-            "cta": "Starta nu!",
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar",
+            "body": "Hur stor skillnad kan 100 dagar gör för dig? Vi hjälper dig att skaffa nya, hälsosamma vanor i höst!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
             "ctaUrl": "/kampanj/blimedlem",
-            "offerInfo": "3 mån bindningstid á 149 kr/månad"
+            "offerInfo": "Endast 4 kr om dagen!"
           },
           {
             "months": 3,
-            "header": "1 kr första månaden!",
-            "body": "För en långsiktig förändring behöver du både motivation och tid. För att nå din målvikt rekommenderar vi vårt medlemskap i 3 månader. Just nu - 1 kr första månaden*!",
-            "cta": "Starta nu!",
-            "ctaOffer": "three-months-monthly",
-            "ctaMonths": 3,
-            "ctaPrice": 149,
-            "offerInfo": "*3 mån bindningstid, 1 kr första månaden därefter 149 kr/månad"
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar!",
+            "body": "Succén är tillbaka! Hur stor skillnad kan 100 dagar göra för dig? Anta utmaningen och skaffa nya, goda vanor och se hur bra du kan må. Vi ger dig alla verktygen du behöver!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "offerInfo": "Endast 4 kr om dagen!",
+            "ctaUrl": "/kampanj/blimedlem"
           },
           {
             "months": 7,
-            "header": "1 kr första månaden!",
-            "body": "För en långsiktig förändring behöver du både motivation och tid. För att nå din målvikt den <strong>%{date}</strong> rekommenderar vi ett medlemskap i 6 månader. Just nu - 1 kr första månaden*!",
-            "cta": "Starta nu!",
-            "ctaOffer": "six-months-monthly",
-            "ctaMonths": 6,
-            "ctaPrice": 129,
-            "offerInfo": "*6 mån bindningstid, 1 kr första månaden därefter 129 kr/månad"
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar!",
+            "body": "Succén är tillbaka! Hur stor skillnad kan 100 dagar göra för dig? Anta utmaningen och skaffa nya, goda vanor och se hur bra du kan må. Vi ger dig alla verktygen du behöver!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "offerInfo": "Endast 4 kr om dagen!",
+            "ctaUrl": "/kampanj/blimedlem"
           },
           {
             "months": 13,
-            "header": "1 kr första månaden!",
-            "body": "För en långsiktig förändring behöver du både motivation och tid. För att nå din målvikt den <strong>%{date}</strong> rekommenderar vi därför ett medlemskap i 12 månader. Just nu - 1 kr första månaden*!",
-            "cta": "Starta nu!",
-            "ctaOffer": "twelve-months-monthly",
-            "ctaMonths": 12,
-            "ctaPrice": 79,
-            "offerInfo": "*12 mån bindningstid, 1 kr första månaden därefter 79 kr/månad"
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar!",
+            "body": "Succén är tillbaka! Hur stor skillnad kan 100 dagar göra för dig? Anta utmaningen och skaffa nya, goda vanor och se hur bra du kan må. Vi ger dig alla verktygen du behöver!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "offerInfo": "Endast 4 kr om dagen!",
+            "ctaUrl": "/kampanj/blimedlem"
           }
         ]
       }

@@ -9,7 +9,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Grattis! Nu tar du första steget mot ditt hälsosamma liv.",
+        "label": "Grattis! Nu tar du första steget för att bli en Hälsovinnare.",
         "align": "center",
         "strength": 1
       }
@@ -99,14 +99,14 @@
       "type": "disclaimer-footer",
       "order": "1.2",
       "props": {
-        "disclaimer": "* Erbjudandet gäller till och med den 31 augusti 2015."
+        "disclaimer": ""
       }
     },
     {
       "type": "text-element",
       "order": "0.1",
       "props": {
-        "label": "JUST NU - Första månaden 1 kr oavsett abonnemang.",
+        "label": "",
         "align": "center",
         "fontSize": "20"
       }
