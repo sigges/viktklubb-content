@@ -46,6 +46,13 @@
         "unit": "kr",
         "productId": "202995",
         "campaignId": "11038"
+      },
+      "special-offer": {
+        "months": 3,
+        "price": 1337,
+        "unit": "kr",
+        "productId": "203243",
+        "campaignId": "11036"
       }
     }
   },
