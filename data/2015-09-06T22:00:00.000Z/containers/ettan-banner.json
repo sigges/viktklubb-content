@@ -13,28 +13,28 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "21308173",
+          "imageId": "21312668",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21308173/234/extraWide/ca15d92256f13/header_augusti2_633x472px.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21308173/160/fourByThree/c45cd4a7b7f13/header_augusti2_633x472px.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21308173/160/imageColumn/8dbebdeca9f13/header_augusti2_633x472px.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21308173/336/imageColumnDouble/5f4be90c53f13/header_augusti2_633x472px.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21308173/333/nineBythirteen/96b5a895a1f13/header_augusti2_633x472px.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/21308173/480/normal/1da3e56be2f13/header_augusti2_633x472px.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/21308173/160/square/91b5640b42f13/header_augusti2_633x472px.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21308173/481/thirteenByNine/02e741cb4cf13/header_augusti2_633x472px.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21308173/480/widescreen/fe86f4fc78f13/header_augusti2_633x472px.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21308173.ab/BINARY/header_augusti2_633x472px.png"
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312668/234/extraWide/bb93c30f9a912/header_augusti4_633x472px.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312668/160/fourByThree/09c63f871d912/header_augusti4_633x472px.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312668/160/imageColumn/b07c8114b5912/header_augusti4_633x472px.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312668/336/imageColumnDouble/9368778d9e912/header_augusti4_633x472px.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312668/333/nineBythirteen/b44dc4c800912/header_augusti4_633x472px.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21312668/480/normal/f376e59eb3912/header_augusti4_633x472px.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21312668/160/square/a966118214912/header_augusti4_633x472px.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312668/481/thirteenByNine/1879314a2d912/header_augusti4_633x472px.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312668/480/widescreen/4f213dd46b912/header_augusti4_633x472px.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312668.ab/BINARY/header_augusti4_633x472px.png"
           },
-          "alt": "Hälsovinsten 100 dagar",
+          "alt": "398 kr för 100 dagar",
           "format": "binary"
         },
-        "header": "Hur stor skillnad kan 100 dagar göra för dig?",
+        "header": "Hälsovinsten 100 dagar - DU kan också bli en Hälsovinnare!",
         "ctaAdd": "Endast 398kr för 100 dagar!",
         "ctaHref": "/kampanj/blimedlem",
-        "ctaLabel": "Anta utmaningen!",
+        "ctaLabel": "Starta här!",
         "disclaimer": "*Därefter löper abonnemanget vidare månadsvis.",
-        "body": "Succén är tillbaka! Ge dig själv 100 dagar i höst för att förändra dina vanor så ger vi dig alla verktyg du behöver. Bli en Hälsovinnare med Hälsovinsten i höst!"
+        "body": "Hur stor skillnad kan 100 dagar göra för din hälsa? Vi är med dig hela vägen med alla verktyg du behöver, utmaningar och stöttning. "
       }
     }
   ]
