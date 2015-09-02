@@ -8,14 +8,14 @@
       "offers": {
         "three-months-monthly": {
           "months": 3,
-          "price": 99,
+          "price": 149,
           "unit": "kr/månad",
           "productId": "200247",
           "campaignId": "10020"
         },
         "six-months-monthly": {
           "months": 6,
-          "price": 89,
+          "price": 129,
           "unit": "kr/månad",
           "productId": "200249",
           "campaignId": "10020"
@@ -29,24 +29,31 @@
         },
         "three-months-upfront": {
           "months": 3,
-          "price": 297,
+          "price": 447,
           "unit": "kr",
           "productId": "200248",
           "campaignId": "10051"
         },
         "six-months-upfront": {
           "months": 6,
-          "price": 446,
+          "price": 774,
           "unit": "kr",
           "productId": "200250",
           "campaignId": "10051"
         },
         "twelve-months-upfront": {
           "months": 12,
-          "price": 870,
+          "price": 948,
           "unit": "kr",
           "productId": "200252",
           "campaignId": "10051"
+        },
+        "special-offer": {
+          "months": 100,
+          "price": 398,
+          "unit": "kr",
+          "productId": "203243",
+          "campaignId": "11036"
         }
       }
     }
