@@ -29,21 +29,21 @@
         },
         "three-months-upfront": {
           "months": 3,
-          "price": 297,
+          "price": 447,
           "unit": "kr",
           "productId": "200248",
           "campaignId": "10051"
         },
         "six-months-upfront": {
           "months": 6,
-          "price": 446,
+          "price": 774,
           "unit": "kr",
           "productId": "200250",
           "campaignId": "10051"
         },
         "twelve-months-upfront": {
           "months": 12,
-          "price": 870,
+          "price": 948,
           "unit": "kr",
           "productId": "200252",
           "campaignId": "10051"
