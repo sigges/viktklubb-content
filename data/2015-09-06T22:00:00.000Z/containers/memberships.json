@@ -15,7 +15,7 @@
       }
     },
     {
-      "type": "standard-offering",
+      "type": "special-offering",
       "order": 1,
       "props": {
         "discreet": true,
@@ -55,6 +55,11 @@
             "offer": "three-months-upfront"
           }
         ],
+        "special": {
+          "sticker": "",
+          "cta": "Välj",
+          "offer": "special-offer"
+        },
         "image": {
           "imageId": "20947393",
           "sources": {
