@@ -1,0 +1,16 @@
+{
+  "props": {
+    "empty": true,
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": "0",
+      "props": {
+        "label": "Just nu! Köp Hälsovinsten - få en kockkniv!"
+      }
+    }
+  ]
+}
