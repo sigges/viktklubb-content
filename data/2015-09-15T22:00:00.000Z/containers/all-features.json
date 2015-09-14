@@ -1,0 +1,128 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Allt det här får du med Viktklubb",
+        "strength": 2,
+        "align": "center",
+        "color": "primary3"
+      }
+    },
+    {
+      "type": "sum-result",
+      "order": 1,
+      "props": {
+        "punchline": "Ett lättare liv med Viktklubb",
+        "items": [
+          {
+            "type": "feature-element",
+            "order": "0",
+            "props": {
+              "image": "framsteg",
+              "title": "Mål & framsteg",
+              "body": "Sätt upp mål och delmål för att sporra dig själv och följ din utveckling med statistik."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "1",
+            "props": {
+              "image": "kostplan",
+              "title": "Individuell kostplan",
+              "body": "Få koll på ditt dagliga kaloriintag med en individuell kostplan."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "3",
+            "props": {
+              "image": "loggbok",
+              "title": "Personlig loggbok",
+              "body": "Logga allt du äter och tränar så håller loggboken koll på kalorierna."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "4",
+            "props": {
+              "image": "app",         
+              "title": "App",
+              "body": "Ute på språng? Ta med dig Viktklubb var du än är med vår fiffiga app."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "5",
+            "props": {
+              "image": "veckomenyer",  
+              "title": "Veckomenyer",
+              "body": "Gör det lätt att äta rätt. Testa våra anpassade menyförslag för frukost, lunch och middag."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "6",
+            "props": {
+              "image": "fivetwo",
+              "title": "5:2–program",
+              "body": "Nyfiken på 5:2? Prova den populära metoden med våra enkla recept för dina fastedagar."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "7",
+            "props": {
+              "image": "motion",
+              "title": "Motion",
+              "body": "Skapa ett eget motionsprogram och få koll på när och hur mycket du behöver träna."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "8",
+            "props": {
+              "image": "experter",
+              "title": "Experter",
+              "body": "Frågor eller funderingar? Ta hjälp av våra experter inom mat, motion och motivation."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "9",
+            "props": {
+              "image": "forum",
+              "title": "Forum",
+              "body": "Få stöd av andra Viktklubbare, blogga och anta utmaningar i Sveriges största viktforum."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "10",
+            "props": {
+              "image": "magasin",
+              "title": "Magasin",
+              "body": "Ta del av hundratals artiklar om mat, hälsa och träning i vårt digitala magasin."
+            }
+          },
+          {
+            "type": "feature-element",
+            "order": "11",
+            "props": {
+              "image": "recept",
+              "title": "Recept",
+              "body": "Djupdyk i tusentals kaloriberäknade recept på goda rätter för vardag, fest och mys."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
