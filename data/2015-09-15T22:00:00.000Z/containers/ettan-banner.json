@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21312668",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312668/234/extraWide/bb93c30f9a912/header_augusti4_633x472px.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312668/160/fourByThree/09c63f871d912/header_augusti4_633x472px.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312668/160/imageColumn/b07c8114b5912/header_augusti4_633x472px.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312668/336/imageColumnDouble/9368778d9e912/header_augusti4_633x472px.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312668/333/nineBythirteen/b44dc4c800912/header_augusti4_633x472px.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21312668/480/normal/f376e59eb3912/header_augusti4_633x472px.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21312668/160/square/a966118214912/header_augusti4_633x472px.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312668/481/thirteenByNine/1879314a2d912/header_augusti4_633x472px.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312668/480/widescreen/4f213dd46b912/header_augusti4_633x472px.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312668.ab/BINARY/header_augusti4_633x472px.png"
+          },
+          "alt": "398 kr för 100 dagar",
+          "format": "binary"
+        },
+        "header": "Hälsovinsten 100 dagar - DU kan också bli en Hälsovinnare!",
+        "ctaAdd": "398kr för 100 dagar!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Starta här!",
+        "disclaimer": "*Därefter löper abonnemanget vidare månadsvis.",
+        "body": "Hur stor skillnad kan 100 dagar göra för din hälsa? Vi är med dig hela vägen med alla verktyg du behöver, utmaningar och stöttning. "
+      }
+    }
+  ]
+}
