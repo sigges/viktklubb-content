@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21312660",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312660/234/extraWide/591f2ef4762c3/header_augusti3_633x472px.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312660/160/fourByThree/9c555c4da72c3/header_augusti3_633x472px.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312660/160/imageColumn/c5d5049b2e2c3/header_augusti3_633x472px.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312660/336/imageColumnDouble/f9644384072c3/header_augusti3_633x472px.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312660/333/nineBythirteen/a5d4f484a82c3/header_augusti3_633x472px.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21312660/480/normal/472ff696462c3/header_augusti3_633x472px.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21312660/160/square/93d7499fb22c3/header_augusti3_633x472px.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312660/481/thirteenByNine/774d2e9df22c3/header_augusti3_633x472px.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312660/480/widescreen/d85dfcf10a2c3/header_augusti3_633x472px.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312660.ab/BINARY/header_augusti3_633x472px.png"
+          },
+          "alt": "Endast 4 kr om dagen",
+          "format": "binary"
+        },
+        "header": "Hälsovinsten 100 dagar - DU kan också bli en Hälsovinnare!",
+        "ctaAdd": "Endast 4kr om dagen!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Starta här!",
+        "disclaimer": "*Totalt 398kr för 100 dagar. Därefter löper abonnemanget vidare månadsvis.",
+        "body": "Hur stor skillnad kan 100 dagar göra för din hälsa? Vi är med dig hela vägen med alla verktyg du behöver, utmaningar och stöttning. "
+      }
+    }
+  ]
+}
