@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21308173",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21308173/234/extraWide/ca15d92256f13/header_augusti2_633x472px.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21308173/160/fourByThree/c45cd4a7b7f13/header_augusti2_633x472px.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21308173/160/imageColumn/8dbebdeca9f13/header_augusti2_633x472px.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21308173/336/imageColumnDouble/5f4be90c53f13/header_augusti2_633x472px.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21308173/333/nineBythirteen/96b5a895a1f13/header_augusti2_633x472px.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21308173/480/normal/1da3e56be2f13/header_augusti2_633x472px.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21308173/160/square/91b5640b42f13/header_augusti2_633x472px.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21308173/481/thirteenByNine/02e741cb4cf13/header_augusti2_633x472px.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21308173/480/widescreen/fe86f4fc78f13/header_augusti2_633x472px.png",
+            "binary": "http://www.aftonbladet.se/viktklubb/saljsida/saljbilder/article21308173.ab/BINARY/header_augusti2_633x472px.png"
+          },
+          "alt": "Hälsovinsten 100 dagar",
+          "format": "binary"
+        },
+        "header": "Nå din målvikt med Viktklubb!",
+        "ctaAdd": "Just nu! 100 kr rabatt!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Aktivera mitt medlemskap",
+        "disclaimer": "*När du köper Hälsovinsten.",
+        "body": "Gå med i Viktklubb och få en massa smarta verktyg som hjälper dig att nå dina mål. Just nu pågår dessutom Hälsovinsten, 100 dagar med extra stöd och peppning!"
+      }
+    }
+  ]
+}

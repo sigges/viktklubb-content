@@ -1,0 +1,39 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "intro",
+      "order": 0,
+      "props": {
+        "header": "Hur stor skillnad kan 100 dagar göra för dig?",
+        "body": "Att ändra en (o)vana tar tid. Med Hälsovinsten vill vi ge dig 100 dagar som kan ändra dina vanor och ditt liv för gott. Vi ger dig daglig peppning, utmaningar och självfallet tillgång till alla Viktklubbs verktyg",
+        "items": [
+          "Viktminsknings&#173metod utvecklad i samarbete med <span class=\"no-wrap\">Karolinska Institutet</span>",
+          "Dagligt mat&#173schema med goda och nyttiga recept, anpassade efter ditt personliga kaloribehov",
+          "Experter inom mat, motion och motivation. Träna med Mårten Nyhlen och få kostråd av dietist Josefine Jonasson"
+        ],
+        "splash": {
+          "imageId": "21312701",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21312701/234/extraWide/f68a30ff6b5dc/100dagar-splash.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21312701/160/fourByThree/2091fb04cb5dc/100dagar-splash.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21312701/160/imageColumn/cbbacf96c65dc/100dagar-splash.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21312701/336/imageColumnDouble/db58f7fcd35dc/100dagar-splash.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21312701/333/nineBythirteen/6b69bc20f15dc/100dagar-splash.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21312701/480/normal/bb88d524975dc/100dagar-splash.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21312701/160/square/e4928d581a5dc/100dagar-splash.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21312701/481/thirteenByNine/7e270106c35dc/100dagar-splash.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21312701/480/widescreen/1c40ac22925dc/100dagar-splash.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21312701.ab/BINARY/100dagar-splash.png"
+          },
+          "alt": "Hälsovinsten 100 dagar",
+          "format": "binary"
+        }
+      }
+    }
+  ]
+}

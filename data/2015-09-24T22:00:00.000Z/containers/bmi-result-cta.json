@@ -1,0 +1,56 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "contentPadding": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "bmi-result-cta",
+      "order": "0",
+      "props": {
+        "low": {
+          "body": "Ett rekommenderat BMI ligger mellan 20-25. Därför stöder vi inte viktminskningsprogram för att nå ett BMI under 20. Prova igen genom att välja en målvikt som är högre."
+        },
+        "gain": {
+          "body": "Du har valt en målvikt som är högre än din nuvarande vikt. Viktklubbs program är framtagna för dig som behöver gå ner eller hålla vikten. Om du tränar hårt och satsar på att öka din muskelmassa mycket snarare än att omfördela fett och muskler, eller om du bara vill gå upp lite i vikt, är Viktklubb troligen inte rätt verktyg för dig i dagsläget."
+        },
+        "results": [
+          {
+            "months": 0,
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar",
+            "body": "Hur stor skillnad kan 100 dagar gör för dig? Vi hjälper dig att skaffa nya, hälsosamma vanor i höst!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "ctaUrl": "/kampanj/blimedlem",
+            "offerInfo": "Endast 4 kr om dagen!"
+          },
+          {
+            "months": 3,
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar!",
+            "body": "Succén är tillbaka! Hur stor skillnad kan 100 dagar göra för dig? Anta utmaningen och skaffa nya, goda vanor och se hur bra du kan må. Vi ger dig alla verktygen du behöver!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "offerInfo": "Endast 4 kr om dagen!",
+            "ctaUrl": "/kampanj/blimedlem"
+          },
+          {
+            "months": 7,
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar!",
+            "body": "Succén är tillbaka! Hur stor skillnad kan 100 dagar göra för dig? Anta utmaningen och skaffa nya, goda vanor och se hur bra du kan må. Vi ger dig alla verktygen du behöver!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "offerInfo": "Endast 4 kr om dagen!",
+            "ctaUrl": "/kampanj/blimedlem"
+          },
+          {
+            "months": 13,
+            "header": "Bli en Hälsovinnare i höst med Hälsovinsten 100 dagar!",
+            "body": "Succén är tillbaka! Hur stor skillnad kan 100 dagar göra för dig? Anta utmaningen och skaffa nya, goda vanor och se hur bra du kan må. Vi ger dig alla verktygen du behöver!",
+            "cta": "Ja, jag vill bli en Hälsovinnare!",
+            "offerInfo": "Endast 4 kr om dagen!",
+            "ctaUrl": "/kampanj/blimedlem"
+          }
+        ]
+      }
+    }
+  ]
+}
