@@ -9,7 +9,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Grattis! Nu tar du första steget mot ditt hälsosamma liv.",
+        "label": "Grattis! Nu tar du första steget mot din målvikt.",
         "align": "center",
         "strength": 1
       }
@@ -25,7 +25,7 @@
           {
             "sticker": "",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "three-months-monthly"
           },
           {
             "sticker": "",
@@ -35,14 +35,14 @@
           {
             "sticker": "",
             "cta": "Välj",
-            "offer": "three-months-monthly"
+            "offer": "twelve-months-monthly"
           }
         ],
         "total": [
           {
             "sticker": "",
             "cta": "Välj",
-            "offer": "twelve-months-upfront"
+            "offer": "three-months-upfront"
           },
           {
             "sticker": "",
@@ -52,7 +52,7 @@
           {
             "sticker": "",
             "cta": "Välj",
-            "offer": "three-months-upfront"
+            "offer": "twelve-months-upfront"
           }
         ],
         "image": {
