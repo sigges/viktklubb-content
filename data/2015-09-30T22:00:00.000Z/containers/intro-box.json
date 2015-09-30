@@ -9,12 +9,12 @@
       "type": "intro",
       "order": 0,
       "props": {
-        "header": "Vi tror på enkelt matematik: Kalorier in - Kalorier ut",
-        "body": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har över 500.000 svenskar använt oss för att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss! ",
+        "header": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
+        "body": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss! ",
         "items": [
-          "Full kontroll på ditt dagliga kaloriintag - registrera enkelt din mat & träning via app eller dator",
-          "Personligt mat-schema och tusentals kaloriberäknade recept. Lika goda som nyttiga!",
-          "Experter inom mat, motion och motivation. Träna med Mårten Nylén och få kostråd av dietist Josefine Jonasson."
+          "Full kontroll på ditt dagliga kaloriintag - logga mat och träning via app eller dator!",
+          "Personlig kostplan och tusentals kaloriberäknade recept. Lika goda som nyttiga!",
+          "Ta hjälp av våra duktiga experter inom mat, motion och motivation!"
         ],
         "splash": {
           "imageId": "20677899",
