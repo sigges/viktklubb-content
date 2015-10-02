@@ -19,7 +19,7 @@
       "order": 1.2,
       "props": {
         "discreet": true,
-        "selectedType": "upfront",
+        "selectedType": "total",
         "hideTypeSwitch": false,
         "monthly": [
           {
