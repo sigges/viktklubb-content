@@ -1,0 +1,51 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "contentPadding": true,
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Räkna ut när du kan nå din målvikt",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "1",
+      "props": {
+        "text": "Fyll i din vikt, längd och målvikt så får du veta ditt BMI och vilket datum du kan vara i mål."
+      }
+    },
+    {
+      "type": "bmi-calculator",
+      "order": "2",
+      "props": {
+        "weight": {
+          "value": 100,
+          "maxValue": 300,
+          "minValue": 50,
+          "cutoffValue": 110
+        },
+        "height": {
+          "value": 170,
+          "maxValue": 240,
+          "minValue": 110,
+          "cutoffValue": 210
+        },
+        "goal": {
+          "value": 90,
+          "maxValue": 300,
+          "minValue": 50,
+          "cutoffValue": 110
+        },
+        "cta": "Testa nu"
+      }
+    }
+  ]
+}
