@@ -9,7 +9,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Nu tar du första steget mot din målvikt.",
+        "label": "Grattis! Nu tar du första steget mot din målvikt.",
         "align": "center",
         "strength": 1
       }
@@ -96,10 +96,17 @@
       }
     },
     {
+      "type": "disclaimer-footer",
+      "order": "1.2",
+      "props": {
+        "disclaimer": ""
+      }
+    },
+    {
       "type": "text-element",
       "order": "0.1",
       "props": {
-        "label": "KAMPANJ - 1 kr första månaden. Gäller till och med 31 oktober, oavsett abonnemang.",
+        "label": "",
         "align": "center",
         "fontSize": "20"
       }
