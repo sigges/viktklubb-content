@@ -9,68 +9,23 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Grattis! Nu tar du första steget mot din målvikt.",
+        "label": "Nu tar du första steget mot din målvikt!",
         "align": "center",
         "strength": 1
       }
     },
     {
-      "type": "standard-offering",
+      "type": "special-offering",
       "order": 1,
       "props": {
         "discreet": true,
         "selectedType": "monthly",
-        "hideTypeSwitch": false,
-        "monthly": [
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "three-months-monthly"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "six-months-monthly"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "twelve-months-monthly"
-          }
-        ],
-        "total": [
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "three-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "six-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "twelve-months-upfront"
-          }
-        ],
-        "image": {
-          "imageId": "20947393",
-          "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20947393/234/extraWide/3143a30484168/splash_junikamp_pil.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20947393/160/fourByThree/ddaca5ece3168/splash_junikamp_pil.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20947393/160/imageColumn/8472bcc949168/splash_junikamp_pil.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20947393/336/imageColumnDouble/98b03c6915168/splash_junikamp_pil.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20947393/333/nineBythirteen/72fe29b9ca168/splash_junikamp_pil.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/20947393/480/normal/3a814abbc5168/splash_junikamp_pil.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/20947393/160/square/44295bf2b5168/splash_junikamp_pil.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20947393/481/thirteenByNine/5a959c89a4168/splash_junikamp_pil.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20947393/480/widescreen/915e6c7762168/splash_junikamp_pil.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/article20947393.ab/BINARY/splash_junikamp_pil.png"
-          },
-          "alt": "",
-          "format": "binary"
+        "hideTypeSwitch": true,
+        "special": {
+          "sticker": "Just nu!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "ctaAdd": "20% rabatt 1/11-13/12 (ord pris 149 kr/mån)"
         },
         "width": "30%",
         "left": "68%"
@@ -92,21 +47,14 @@
       "order": 3,
       "props": {
         "safetyNote": "Betala säkert",
-        "disclaimer": "Samtliga abonnemang fortsätter efter vald bindningstid, för samma månadsavgift som tidigare, så länge du önskar vara medlem. Du säger själv upp ditt abonnemang."
-      }
-    },
-    {
-      "type": "disclaimer-footer",
-      "order": "1.2",
-      "props": {
-        "disclaimer": ""
+        "disclaimer": "Abonnemanget löper automatiskt vidare för 119 kr/månad, så länge du önskar vara medlem. Du säger själv upp ditt abonnemang."
       }
     },
     {
       "type": "text-element",
       "order": "0.1",
       "props": {
-        "label": "",
+        "label": "Ingen startavgift. Ingen bindningstid. Ingen uppsägningstid.",
         "align": "center",
         "fontSize": "20"
       }
