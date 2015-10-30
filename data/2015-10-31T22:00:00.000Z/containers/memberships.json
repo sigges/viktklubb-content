@@ -9,52 +9,24 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Grattis! Nu tar du första steget mot din målvikt.",
+        "label": "Nu tar du första steget mot din målvikt!",
         "align": "center",
         "strength": 1
       }
     },
     {
-      "type": "standard-offering",
+      "type": "special-offering",
       "order": 1,
       "props": {
         "discreet": true,
         "selectedType": "monthly",
-        "hideTypeSwitch": false,
-        "monthly": [
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "three-months-monthly"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "six-months-monthly"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "twelve-months-monthly"
-          }
-        ],
-        "total": [
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "three-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "six-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "twelve-months-upfront"
-          }
-        ],
+        "hideTypeSwitch": true,
+        "special": {
+          "sticker": "Just nu!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "ctaAdd": "20% rabatt 1/11-13/12 (ord pris 149 kr/mån)"
+        },
         "image": {
           "imageId": "20947393",
           "sources": {
@@ -96,17 +68,10 @@
       }
     },
     {
-      "type": "disclaimer-footer",
-      "order": "1.2",
-      "props": {
-        "disclaimer": ""
-      }
-    },
-    {
       "type": "text-element",
       "order": "0.1",
       "props": {
-        "label": "",
+        "label": "KAMPANJ - 1 kr första månaden. Gäller till och med 31 oktober, oavsett abonnemang.",
         "align": "center",
         "fontSize": "20"
       }

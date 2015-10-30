@@ -5,47 +5,48 @@
     "productQuery": "product_id",
     "campaignQuery": "campaign_id",
     "offers": {
+      "special-offer": {
+        "unit": "119 kr",
+        "productId": "203263",
+        "campaignId": "11088",
+        "offerLength": "1",
+        "lengthUnit": "månad"
+      },
       "three-months-monthly": {
         "months": 3,
-        "price": 149,
-        "unit": "kr/månad",
-        "productId": "203215",
-        "campaignId": "11056"
+        "unit": "1 kr första månaden (därefter 149 kr/mån)",
+        "productId": "203239",
+        "campaignId": "11062"
       },
       "six-months-monthly": {
         "months": 6,
-        "price": 129,
-        "unit": "kr/månad",
-        "productId": "203216",
-        "campaignId": "11056"
+        "unit": "1 kr första månaden (därefter 129 kr/mån)",
+        "productId": "203238",
+        "campaignId": "11062"
       },
       "twelve-months-monthly": {
         "months": 12,
-        "price": 79,
-        "unit": "kr/månad",
-        "productId": "202989",
-        "campaignId": "11056"
+        "unit": "1 kr första månaden (därefter 79 kr/mån)",
+        "productId": "203023",
+        "campaignId": "11062"
       },
       "three-months-upfront": {
         "months": 3,
-        "price": 447,
-        "unit": "kr",
-        "productId": "203217",
-        "campaignId": "11057"
+        "unit": "1 kr första månaden (totalt 299 kr)",
+        "productId": "203237",
+        "campaignId": "11063"
       },
       "six-months-upfront": {
         "months": 6,
-        "price": 774,
-        "unit": "kr",
-        "productId": "203218",
-        "campaignId": "11057"
+        "unit": "1 kr första månaden (totalt 646 kr)",
+        "productId": "203236",
+        "campaignId": "11063"
       },
       "twelve-months-upfront": {
         "months": 12,
-        "price": 948,
-        "unit": "kr",
-        "productId": "202995",
-        "campaignId": "11057"
+        "unit": "1 kr första månaden (totalt 870 kr)",
+        "productId": "203204",
+        "campaignId": "11063"
       }
     }
   },
@@ -54,23 +55,19 @@
       "containers": [
         "ettan-banner",
         "vk-features",
-        "testimonials",
-        "intro-box",
         "split-ad",
         "bmi-calculator",
         "bmi-range-display",
-        "bmi-result-cta",
-        "conversionVideo"
+        "bmi-result-cta"
       ]
     },
     "vk-content": {
       "containers": [
-        "welcome-letter",
-        "member-reflections",
-        "experts",
+        "intro-box",
+        "testimonials",
+        "conversionVideo",
         "all-features",
-        "workoutWithMarten",
-        "memberships"
+        "experts"
       ]
     },
     "bmi": {
