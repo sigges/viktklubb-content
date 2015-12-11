@@ -1,0 +1,63 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Ge DIG själv den bästa tänkbara julklappen!",
+        "align": "center",
+        "strength": 1
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "discreet": true,
+        "selectedType": "monthly",
+        "hideTypeSwitch": true,
+        "special": {
+          "sticker": "Tre månader",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "ctaAdd": "ord pris 149 kr/mån"
+        },
+        "width": "30%",
+        "left": "68%"
+      }
+    },
+    {
+      "type": "features",
+      "order": 2,
+      "props": {
+        "items": [
+          "Personlig kostplan med dagliga menyförslag",
+          "Experthjälp inom kost, motion och motivation",
+          "Viktminskningsmetod utvecklad i samarbete med Karolinska Institutet"
+        ]
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 3,
+      "props": {
+        "safetyNote": "Betala säkert",
+        "disclaimer": "*3 månaders bindningstid, därefter löper abonnemanget automatiskt vidare för 129 kr/månad, så länge du önskar vara medlem. Du säger själv upp ditt abonnemang."
+      }
+    },
+    {
+      "type": "text-element",
+      "order": "0.1",
+      "props": {
+        "label": "",
+        "align": "center",
+        "fontSize": "20"
+      }
+    }
+  ]
+}
