@@ -63,23 +63,19 @@
       "containers": [
         "ettan-banner",
         "vk-features",
-        "testimonials",
-        "intro-box",
         "split-ad",
         "bmi-calculator",
         "bmi-range-display",
-        "bmi-result-cta",
-        "conversionVideo"
+        "bmi-result-cta"
       ]
     },
     "vk-content": {
       "containers": [
-        "welcome-letter",
-        "member-reflections",
-        "experts",
+        "intro-box",
+        "testimonials",
+        "conversionVideo",
         "all-features",
-        "workoutWithMarten",
-        "memberships"
+        "experts"
       ]
     },
     "bmi": {
