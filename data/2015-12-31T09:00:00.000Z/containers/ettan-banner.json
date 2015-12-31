@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21943190",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21943190/234/extraWide/0e7c45a858c0f/header_and+jen_wow_633x472px.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21943190/160/fourByThree/af2dc37ed2c0f/header_and+jen_wow_633x472px.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21943190/160/imageColumn/8ad1f789f0c0f/header_and+jen_wow_633x472px.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21943190/336/imageColumnDouble/a744502907c0f/header_and+jen_wow_633x472px.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21943190/333/nineBythirteen/58fb297fe7c0f/header_and+jen_wow_633x472px.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21943190/480/normal/0b4e145366c0f/header_and+jen_wow_633x472px.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21943190/160/square/f532d78e57c0f/header_and+jen_wow_633x472px.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21943190/481/thirteenByNine/5843d531abc0f/header_and+jen_wow_633x472px.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21943190/480/widescreen/52550a3ed5c0f/header_and+jen_wow_633x472px.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21943190.ab/BINARY/header_and+jen_wow_633x472px.png"
+          },
+          "alt": "Kroppen är toppen!",
+          "format": "binary"
+        },
+        "header": "Kroppen är toppen - låt oss hjälpa dig att ta hand om den.",
+        "ctaAdd": "1 kr första månaden*",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "disclaimer": "*när du tecknar medlemskap om minst 3 månader",
+        "body": ""
+      }
+    }
+  ]
+}
