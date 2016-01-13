@@ -1,0 +1,56 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "contentPadding": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "bmi-result-cta",
+      "order": "0",
+      "props": {
+        "low": {
+          "body": "Ett rekommenderat BMI ligger mellan 20-25. Därför stöder vi inte viktminskningsprogram för att nå ett BMI under 20. Prova igen genom att välja en målvikt som är högre."
+        },
+        "gain": {
+          "body": "Du har valt en målvikt som är högre än din nuvarande vikt. Viktklubbs program är framtagna för dig som behöver gå ner eller hålla vikten. Om du tränar hårt och satsar på att öka din muskelmassa mycket snarare än att omfördela fett och muskler, eller om du bara vill gå upp lite i vikt, är Viktklubb troligen inte rätt verktyg för dig i dagsläget."
+        },
+        "results": [
+          {
+            "months": 0,
+            "header": "Vi hjälper dig nå din målvikt",
+            "body": "Viktklubb är utvecklat för att ge dig verktyg och kunskapen för en effektiv viktminskning och en hälsosam livsstil, som håller i det långa loppet. Vi är ingen diet och ingen metod. Vi tror helt enkelt på att göra av med mer energi  än vad du stoppar i dig. ",
+            "cta": "Jag vill nå mitt mål!",
+            "ctaUrl": "/kampanj/blimedlem",
+            "offerInfo": ""
+          },
+          {
+            "months": 3,
+            "header": "Vi hjälper dig nå din målvikt",
+            "body": "Viktklubb är utvecklat för att ge dig verktyg och kunskapen för en effektiv viktminskning och en hälsosam livsstil, som håller i det långa loppet. Vi är ingen diet och ingen metod. Vi tror helt enkelt på att göra av med mer energi  än vad du stoppar i dig. ",
+            "cta": "Jag vill nå mitt mål!",
+            "offerInfo": "",
+            "ctaUrl": "/kampanj/blimedlem"
+          },
+          {
+            "months": 7,
+            "header": "Vi hjälper dig nå din målvikt",
+            "body": "Viktklubb är utvecklat för att ge dig verktyg och kunskapen för en effektiv viktminskning och en hälsosam livsstil, som håller i det långa loppet. Vi är ingen diet och ingen metod. Vi tror helt enkelt på att göra av med mer energi  än vad du stoppar i dig. ",
+            "cta": "Jag vill nå mitt mål!",
+            "offerInfo": "",
+            "ctaUrl": "/kampanj/blimedlem"
+          },
+          {
+            "months": 13,
+            "header": "Vi hjälper dig nå din målvikt",
+            "body": "Viktklubb är utvecklat för att ge dig verktyg och kunskapen för en effektiv viktminskning och en hälsosam livsstil, som håller i det långa loppet. Vi är ingen diet och ingen metod. Vi tror helt enkelt på att göra av med mer energi  än vad du stoppar i dig. ",
+            "cta": "Jag vill nå mitt mål!",
+            "offerInfo": "",
+            "ctaUrl": "/kampanj/blimedlem"
+          }
+        ]
+      }
+    }
+  ]
+}
