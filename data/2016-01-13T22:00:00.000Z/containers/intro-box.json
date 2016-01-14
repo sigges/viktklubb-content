@@ -1,0 +1,39 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "intro",
+      "order": 0,
+      "props": {
+        "header": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
+        "body": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss! ",
+        "items": [
+          "Full kontroll på ditt dagliga kaloriintag - logga mat och träning via app eller dator!",
+          "Personlig kostplan och tusentals kaloriberäknade recept. Lika goda som nyttiga!",
+          "Ta hjälp av våra duktiga experter inom mat, motion och motivation!"
+        ],
+        "splash": {
+          "imageId": "20677899",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20677899/234/extraWide/966e529b61f0b/Utvecklad+med+KI",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20677899/160/fourByThree/00a66d1b01f0b/Utvecklad+med+KI",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20677899/160/imageColumn/c18fbde286f0b/Utvecklad+med+KI",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20677899/336/imageColumnDouble/bd22050550f0b/Utvecklad+med+KI",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20677899/333/nineBythirteen/b33189cfd9f0b/Utvecklad+med+KI",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20677899/480/normal/71edb9647af0b/Utvecklad+med+KI",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20677899/160/square/3dd8202c5af0b/Utvecklad+med+KI",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20677899/481/thirteenByNine/fd23505761f0b/Utvecklad+med+KI",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20677899/480/widescreen/ca27bcf9ebf0b/Utvecklad+med+KI",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20677899.ab/BINARY/Utvecklad med KI"
+          },
+          "alt": "Utvecklad med Karolinska Institutet",
+          "format": "binary"
+        }
+      }
+    }
+  ]
+}
