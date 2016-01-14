@@ -9,45 +9,27 @@
       "type": "split-ad",
       "order": 0,
       "props": {
-        "leftHeader": "Låt oss inspirera dig i köket!",
-        "leftBody": "Färgstarka, goda och nyttiga rätter! Markiz ger dig inspirationen du behöver i köket för att göra nya, hälsosamma val.",
+        "leftHeader": "Inspireras i köket!",
+        "leftBody": "Färgstarka, goda och nyttiga rätter! Markiz ger dig inspirationen du behöver för att göra hälsosamma val.",
         "leftCtaUrl": "http://viktklubb.aftonbladet.se/kampanj/artikel/21657695/motivation",
         "rightHeader": "NYHET! Nytt viktprogram med delmål",
-        "rightBody": "Nu gör vi det lättare och roligare att nå dina mål - med delmål!",
-        "rightCta": "Läs mer här  >>",
+        "rightBody": "Nu gör vi det både lättare och roligare att nå dina mål med hjälp av delmål.",
         "rightCtaUrl": "http://viktklubb.aftonbladet.se/kampanj/artikel/22071750/motivation",
-        "portraitImage": {
-          "imageId": "22077423",
+        "leftImage": {
+          "imageId": "22082511",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22077423/234/extraWide/587e6718a5ff2/markiz.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22077423/160/fourByThree/a54eaf9b50ff2/markiz.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22077423/160/imageColumn/1abe6f74c3ff2/markiz.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22077423/336/imageColumnDouble/7c513d9fb6ff2/markiz.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22077423/333/nineBythirteen/ec8d272b3dff2/markiz.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/22077423/480/normal/16b6347d67ff2/markiz.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/22077423/160/square/f1504c8095ff2/markiz.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22077423/481/thirteenByNine/d9503d0ac3ff2/markiz.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22077423/480/widescreen/b3c00c268eff2/markiz.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22077423.ab/BINARY/markiz.png"
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22082511/234/extraWide/587e6718a5ff2/markizfood_ad.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22082511/160/fourByThree/a54eaf9b50ff2/markizfood_ad.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22082511/160/imageColumn/1abe6f74c3ff2/markizfood_ad.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22082511/336/imageColumnDouble/7c513d9fb6ff2/markizfood_ad.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22082511/333/nineBythirteen/ec8d272b3dff2/markizfood_ad.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/22082511/480/normal/16b6347d67ff2/markizfood_ad.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/22082511/160/square/f1504c8095ff2/markizfood_ad.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22082511/481/thirteenByNine/d9503d0ac3ff2/markizfood_ad.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22082511/480/widescreen/b3c00c268eff2/markizfood_ad.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22082511.ab/BINARY/markizfood_ad.png"
           },
           "alt": "Markiz Talhaoui",
-          "format": "binary"
-        },
-        "programImage": {
-          "imageId": "22077432",
-          "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22077432/234/extraWide/587e6718a5ff2/rotfruktspytt.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22077432/160/fourByThree/a54eaf9b50ff2/rotfruktspytt.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22077432/160/imageColumn/1abe6f74c3ff2/rotfruktspytt.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22077432/336/imageColumnDouble/7c513d9fb6ff2/rotfruktspytt.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22077432/333/nineBythirteen/ec8d272b3dff2/rotfruktspytt.png",
-            "normal": "ht22077423tp://gfx2.aftonbladet-cdn.se/image/22077432/480/normal/16b6347d67ff2/rotfruktspytt.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/22077432/160/square/f1504c8095ff2/rotfruktspytt.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22077432/481/thirteenByNine/d9503d0ac3ff2/rotfruktspytt.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22077432/480/widescreen/b3c00c268eff2/rotfruktspytt.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22077432.ab/BINARY/rotfruktspytt.png"
-          },
-          "alt": "Rotfruktspytt",
           "format": "binary"
         },
         "rightImage": {
@@ -64,7 +46,7 @@
             "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22077662/480/widescreen/628368684f33c/PG_app.png",
             "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22077662.ab/BINARY/PG_app.png"
           },
-          "alt": "Nytt viktprogram",
+          "alt": "Nytt viktprogram med delmål",
           "format": "binary"
         },
         "appStoreImage": {
