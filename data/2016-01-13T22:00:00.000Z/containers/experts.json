@@ -20,7 +20,7 @@
             "image": "shirin",
             "title": "Shirin",
             "tag": "Personlig tränare",
-            "body": "Jag är träningscoach med ett väldigt brett register men med en förkärlek för Yoga och Löpning. Tillsammans kommer vi igång och utvecklar din träning, oavsett nivå!"
+              "body": "Jag är träningscoach med ett väldigt brett register men med en förkärlek för yoga och löpning. Tillsammans kommer vi igång och utvecklar din träning, oavsett nivå!"
           },
           {
             "image": "josefine",
@@ -39,7 +39,7 @@
           "align": "center",
           "label": "Vi hjälper dig nå dina mål!"
         },
-        "medium": {
+        "small": {
           "experts": [
             {
               "image": "shirin",
