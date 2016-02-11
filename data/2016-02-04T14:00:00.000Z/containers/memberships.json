@@ -99,13 +99,6 @@
       }
     },
     {
-      "type": "disclaimer-footer",
-      "order": "1.2",
-      "props": {
-        "disclaimer": ""
-      }
-    },
-    {
       "type": "text-element",
       "order": "0.1",
       "props": {
