@@ -52,6 +52,8 @@
         "months": 100,
         "price": 398,
         "unit": "kr",
+        "offerLength": 6,
+        "lengthUnit": "månader",
         "productId": "203243",
         "campaignId": "11036"
       }
