@@ -59,7 +59,7 @@
       }
       }
     }
-  }
+  },
   "localhost": {
     "payment": {
       "externalHost": "http://localhost.aftonbladet.se:9000",
