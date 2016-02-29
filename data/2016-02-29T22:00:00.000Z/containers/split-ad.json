@@ -1,0 +1,106 @@
+{
+  "props": {
+    "shadowBox": true,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "split-ad",
+      "order": 0,
+      "props": {
+        "leftHeader": "\"Våga. Vilja. Förändra.\"",
+        "leftBody": "Föreläsningsserie i 4 delar som bygger på Mårten Nyléns succé \"Det sitter i leendet\". Låt dig inspireras, få råd och praktiska verktyg direkt av Mårten. Enbart på Viktklubb!",
+        "leftCtaUrl": "http://viktklubb.aftonbladet.se/kampanj/artikel/21657695/motivation",
+        "rightHeader": "NYHET! Nytt viktprogram med delmål",
+        "rightBody": "Nu gör vi det både lättare och roligare att nå dina mål med hjälp av delmål.",
+        "rightCtaUrl": "http://viktklubb.aftonbladet.se/kampanj/artikel/22071750/motivation",
+        "leftImage": {
+          "imageId": "22354337",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22354337/234/extraWide/ed4577378d33c/marten_split.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22354337/160/fourByThree/54a2b263f133c/marten_split.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22354337/160/imageColumn/17fccd477833c/marten_split.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22354337/336/imageColumnDouble/daef82781433c/marten_split.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22354337/333/nineBythirteen/835d14828a33c/marten_split.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/22354337/480/normal/e8dedf4eb733c/marten_split.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/22354337/160/square/664c56758433c/marten_split.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22354337/481/thirteenByNine/be2ae988a133c/marten_split.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22354337/480/widescreen/628368684f33c/marten_split.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22354337.ab/BINARY/marten_split.png"
+          },
+          "alt": "Mårten Nylén",
+          "format": "binary"
+        },
+        "rightImage": {
+          "imageId": "22077662",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22077662/234/extraWide/ed4577378d33c/PG_app.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22077662/160/fourByThree/54a2b263f133c/PG_app.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22077662/160/imageColumn/17fccd477833c/PG_app.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22077662/336/imageColumnDouble/daef82781433c/PG_app.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22077662/333/nineBythirteen/835d14828a33c/PG_app.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/22077662/480/normal/e8dedf4eb733c/PG_app.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/22077662/160/square/664c56758433c/PG_app.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22077662/481/thirteenByNine/be2ae988a133c/PG_app.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22077662/480/widescreen/628368684f33c/PG_app.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22077662.ab/BINARY/PG_app.png"
+          },
+          "alt": "Nytt viktprogram med delmål",
+          "format": "binary"
+        },
+        "appStoreImage": {
+          "imageId": "20680809",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20680809/234/extraWide/e92b5325476b4/Appstore",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20680809/160/fourByThree/ef827f2aab6b4/Appstore",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20680809/160/imageColumn/b78eaeab046b4/Appstore",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20680809/336/imageColumnDouble/06ec8062326b4/Appstore",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20680809/333/nineBythirteen/2e082ff63e6b4/Appstore",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20680809/480/normal/f1b05841d76b4/Appstore",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20680809/160/square/0edaeb19e86b4/Appstore",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680809/481/thirteenByNine/a415ddb2546b4/Appstore",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680809/480/widescreen/a5743a52fd6b4/Appstore",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680809.ab/BINARY/Appstore"
+          },
+          "alt": "Download on the App Store",
+          "format": "binary"
+        },
+        "googlePlayImage": {
+          "imageId": "20680814",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20680814/234/extraWide/c11f89547e95c/Google+play",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20680814/160/fourByThree/3eb266759195c/Google+play",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20680814/160/imageColumn/c4dcd54bf595c/Google+play",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20680814/336/imageColumnDouble/a55ad8c9c195c/Google+play",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20680814/333/nineBythirteen/8f1dd7c0a395c/Google+play",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20680814/480/normal/c4360df45595c/Google+play",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20680814/160/square/2a98d75fe895c/Google+play",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680814/481/thirteenByNine/f91838306c95c/Google+play",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680814/480/widescreen/371db3481995c/Google+play",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680814.ab/BINARY/Google play"
+          },
+          "alt": "Android app on Google play",
+          "format": "binary"
+        },
+        "ribbonImage": {
+          "imageId": "20680790",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/20680790/234/extraWide/3c081a8300676/Nyhetsribbon",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/20680790/160/fourByThree/06aad8598e676/Nyhetsribbon",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/20680790/160/imageColumn/273171d126676/Nyhetsribbon",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/20680790/336/imageColumnDouble/9eea83f195676/Nyhetsribbon",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/20680790/333/nineBythirteen/06f6a7b348676/Nyhetsribbon",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/20680790/480/normal/439d94632f676/Nyhetsribbon",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/20680790/160/square/a28cc6dc9c676/Nyhetsribbon",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/20680790/481/thirteenByNine/62ab4aa22b676/Nyhetsribbon",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/20680790/480/widescreen/85871f0fd2676/Nyhetsribbon",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article20680790.ab/BINARY/Nyhetsribbon"
+          },
+          "alt": "Nyheter!",
+          "format": "binary"
+        }
+      }
+    }
+  ]
+}
