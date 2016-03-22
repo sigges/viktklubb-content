@@ -1,0 +1,16 @@
+{
+  "props": {
+    "empty": true,
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": "0",
+      "props": {
+        "label": "Nå din målvikt med Viktklubb - 50% rabatt!"
+      }
+    }
+  ]
+}
