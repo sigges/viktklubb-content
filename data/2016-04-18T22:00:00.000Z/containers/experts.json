@@ -1,0 +1,67 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "experts",
+      "order": 0,
+      "props": {
+        "experts": [
+          {
+            "image": "sofia",
+            "title": "Sofia",
+            "tag": "Redaktör",
+            "body": "Som redaktör är det mitt jobb att hålla koll på den senaste utvecklingen inom kost, hälsa och träning. Jag ser fram emot att följa din personliga utveckling och lovar att skicka de senaste tipsen som hjälp på vägen."
+          },
+          {
+            "image": "shirin",
+            "title": "Shirin",
+            "tag": "Personlig tränare",
+              "body": "Jag är träningscoach med ett väldigt brett register men med en förkärlek för yoga och löpning. Tillsammans kommer vi igång och utvecklar din träning, oavsett nivå!"
+          },
+          {
+            "image": "josefine",
+            "title": "Josefine",
+            "tag": "Leg. dietist",
+            "body": "Jag är dietist och har varit med sedan Viktklubbs start. Det är min uppgift att hjälpa dig med tips om vad man äter för att bli mätt, hur man ska tänka med kolhydrater vs fett och mycket mer."
+          },
+          {
+            "image": "denise",
+            "tag": "Medlemsansvarig",
+            "title": "Denise",
+            "body": "Som medlemsansvarig jobbar jag med att förbättra tjänsten för dig som användare. Du kan se fram emot spännande tävlingar och utmaningar."
+          }
+        ],
+        "header": {
+          "align": "center",
+          "label": "Vi hjälper dig nå dina mål!"
+        },
+        "small": {
+          "experts": [
+            {
+              "image": "shirin",
+              "title": "Shirin",
+              "tag": "Personlig tränare",
+              "body": "Jag är träningscoach med ett väldigt brett register men med en förkärlek för yoga och löpning. Tillsammans kommer vi igång och utvecklar din träning, oavsett nivå!"
+            },
+            {
+              "image": "josefine",
+              "title": "Josefine",
+              "tag": "Leg. dietist",
+              "body": "Jag är dietist och har varit med sedan Viktklubbs start. Det är min uppgift att hjälpa dig med tips om vad man äter för att bli mätt, hur man ska tänka med kolhydrater vs fett och mycket mer."
+            },
+            {
+              "image": "denise",
+              "tag": "Medlemsansvarig",
+              "title": "Denise",
+              "body": "Som medlemsansvarig jobbar jag med att förbättra tjänsten för dig som användare. Du kan se fram emot spännande tävlingar och utmaningar."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
