@@ -6,22 +6,22 @@
     "campaignQuery": "campaign_id",
     "offers": {
       "three-months-monthly": {
-        "months": 3,
-        "unit": "därefter 149 kr/mån",
-        "productId": "203309",
-        "campaignId": "11243"
+        "months": 6,
+        "unit": "129 kr/mån",
+        "productId": "203216",
+        "campaignId": "11273"
       },
       "six-months-monthly": {
-        "months": 3,
-        "unit": "därefter 149 kr/mån",
+        "months": 0,
+        "unit": "",
         "productId": "203238",
         "campaignId": "11243"
       },
       "twelve-months-monthly": {
         "months": 12,
-        "unit": "därefter 99 kr/mån",
-        "productId": "203311",
-        "campaignId": "11243"
+        "unit": "99 kr/mån",
+        "productId": "203274",
+        "campaignId": "11273"
       },
       "three-months-upfront": {
         "months": 3,
@@ -45,11 +45,11 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 6,
-        "unit": "64 kr första mån*",
-        "productId": "203310",
-        "campaignId": "11243",
-        "offerLength": 6,
+        "months": 3,
+        "unit": "Du sparar 223 kr!",
+        "productId": "203219",
+        "campaignId": "11273",
+        "offerLength": 3,
         "lengthUnit": "månader"
       }
     }
