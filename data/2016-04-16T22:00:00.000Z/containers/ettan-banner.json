@@ -13,20 +13,20 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "22616418",
+          "imageId": "22625376",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22616418/234/extraWide/0e7c45a858c0f/VK_13ar_v2_transp.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22616418/160/fourByThree/af2dc37ed2c0f/VK_13ar_v2_transp.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22616418/160/imageColumn/8ad1f789f0c0f/VK_13ar_v2_transp.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22616418/336/imageColumnDouble/a744502907c0f/VK_13ar_v2_transp.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22616418/333/nineBythirteen/58fb297fe7c0f/VK_13ar_v2_transp.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/22616418/480/normal/0b4e145366c0f/VK_13ar_v2_transp.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/22616418/160/square/f532d78e57c0f/VK_13ar_v2_transp.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22616418/481/thirteenByNine/5843d531abc0f/VK_13ar_v2_transp.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22616418/480/widescreen/52550a3ed5c0f/VK_13ar_v2_transp.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22616418.ab/BINARY/VK_13ar_v2_transp.png"
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22625376/234/extraWide/0e7c45a858c0f/VK_13ar_v2.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22625376/160/fourByThree/af2dc37ed2c0f/VK_13ar_v2.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22625376/160/imageColumn/8ad1f789f0c0f/VK_13ar_v2.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22625376/336/imageColumnDouble/a744502907c0f/VK_13ar_v2.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22625376/333/nineBythirteen/58fb297fe7c0f/VK_13ar_v2.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/22625376/480/normal/0b4e145366c0f/VK_13ar_v2.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/22625376/160/square/f532d78e57c0f/VK_13ar_v2.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22625376/481/thirteenByNine/5843d531abc0f/VK_13ar_v2.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22625376/480/widescreen/52550a3ed5c0f/VK_13ar_v2.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22625376.ab/BINARY/VK_13ar_v2.png"
           },
-          "alt": "Viktklubb 13 år",
+          "alt": "Viktklubb fyller 13 ar",
           "format": "binary"
         },
         "header": "Viktklubb fyller 13 år! Bara idag – kalaserbjudande.",
