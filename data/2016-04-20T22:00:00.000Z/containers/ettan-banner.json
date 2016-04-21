@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "21943156",
+          "sources": {
+            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/21943156/234/extraWide/591f2ef4762c3/header_and+jen_633x472px.png",
+            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/21943156/160/fourByThree/9c555c4da72c3/header_and+jen_633x472px.png",
+            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/21943156/160/imageColumn/c5d5049b2e2c3/header_and+jen_633x472px.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/21943156/336/imageColumnDouble/f9644384072c3/header_and+jen_633x472px.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/21943156/333/nineBythirteen/a5d4f484a82c3/header_and+jen_633x472px.png",
+            "normal": "http://gfx2.aftonbladet-cdn.se/image/21943156/480/normal/472ff696462c3/header_and+jen_633x472px.png",
+            "square": "http://gfx1.aftonbladet-cdn.se/image/21943156/160/square/93d7499fb22c3/header_and+jen_633x472px.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/21943156/481/thirteenByNine/774d2e9df22c3/header_and+jen_633x472px.png",
+            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/21943156/480/widescreen/d85dfcf10a2c3/header_and+jen_633x472px.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article21943156.ab/BINARY/header_and+jen_633x472px.png"
+          },
+          "alt": "Andreas -18kg och Jennie -30kg",
+          "format": "binary"
+        },
+        "header": "Redo för en utmaning på 100 dagar? Vi hjälper dig att nå din målvikt!",
+        "ctaAdd": "100 dagar för 249kr",
+        "ctaHref": "https://login.aftonbladet.se/purchase?product_id=203317&service=vikt&campaign_id=11265&returnPath=http%3A%2F%2Fviktklubb.aftonbladet.se%2Fv4%2Fstart%3Fpurchase=1",
+        "ctaLabel": "Starta här!",
+        "disclaimer": "*100 dagar för 249 kr (ord pris 497 kr). Efter bindningstiden löper abonnemanget vidare till en kostnad av 149 kr/månad.",
+        "body": ""
+      }
+    }
+  ]
+}
