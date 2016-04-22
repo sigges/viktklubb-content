@@ -13,20 +13,20 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "22489886",
+          "imageId": "22676288",
           "sources": {
-            "extraWide": "http://gfx2.aftonbladet-cdn.se/image/22489886/234/extraWide/0e7c45a858c0f/viktklubb_easter.png",
-            "fourByThree": "http://gfx1.aftonbladet-cdn.se/image/22489886/160/fourByThree/af2dc37ed2c0f/viktklubb_easter.png",
-            "imageColumn": "http://gfx1.aftonbladet-cdn.se/image/22489886/160/imageColumn/8ad1f789f0c0f/viktklubb_easter.png",
-            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22489886/336/imageColumnDouble/a744502907c0f/viktklubb_easter.png",
-            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22489886/333/nineBythirteen/58fb297fe7c0f/viktklubb_easter.png",
-            "normal": "http://gfx2.aftonbladet-cdn.se/image/22489886/480/normal/0b4e145366c0f/viktklubb_easter.png",
-            "square": "http://gfx1.aftonbladet-cdn.se/image/22489886/160/square/f532d78e57c0f/viktklubb_easter.png",
-            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22489886/481/thirteenByNine/5843d531abc0f/viktklubb_easter.png",
-            "widescreen": "http://gfx2.aftonbladet-cdn.se/image/22489886/480/widescreen/52550a3ed5c0f/viktklubb_easter.png",
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22489886.ab/BINARY/viktklubb_easter.png"
+            "extraWide": "http://gfx.aftonbladet-cdn.se/image/22676288/234/extraWide/0e7c45a858c0f/header_and_jen.png",
+            "fourByThree": "http://gfx.aftonbladet-cdn.se/image/22676288/160/fourByThree/af2dc37ed2c0f/header_and_jen.png",
+            "imageColumn": "http://gfx.aftonbladet-cdn.se/image/22676288/160/imageColumn/8ad1f789f0c0f/header_and_jen.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22676288/336/imageColumnDouble/a744502907c0f/header_and_jen.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22676288/333/nineBythirteen/58fb297fe7c0f/header_and_jen.png",
+            "normal": "http://gfx.aftonbladet-cdn.se/image/22676288/480/normal/0b4e145366c0f/header_and_jen.png",
+            "square": "http://gfx.aftonbladet-cdn.se/image/22676288/160/square/f532d78e57c0f/header_and_jen.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22676288/481/thirteenByNine/5843d531abc0f/header_and_jen.png",
+            "widescreen": "http://gfx.aftonbladet-cdn.se/image/22676288/480/widescreen/52550a3ed5c0f/header_and_jen.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22676288.ab/BINARY/header_and_jen.png"
           },
-          "alt": "Viktklubb – Andreas och Jennie – Påsk 2016",
+          "alt": "1 kr första månaden",
           "format": "binary"
         },
         "header": "Kom i form till midsommar!",
