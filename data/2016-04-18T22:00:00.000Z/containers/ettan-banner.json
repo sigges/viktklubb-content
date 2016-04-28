@@ -9,6 +9,11 @@
       "type": "standard-banner-v2",
       "order": "1",
       "props": {
+        "timer": {
+          "text": "It works!",
+          "endDate": "2016/05/20 12:00",
+          "cssClass": "defaultTImer"
+        },
         "adjustments": {
           "primaryTopMargin": "30"
         },
