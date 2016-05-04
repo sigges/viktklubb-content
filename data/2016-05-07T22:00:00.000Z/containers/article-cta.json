@@ -1,0 +1,16 @@
+{
+  "props": {
+    "empty": true,
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": "0",
+      "props": {
+        "label": "Kom i form till midsommar – 3 mån till 50% rabatt!"
+      }
+    }
+  ]
+}
