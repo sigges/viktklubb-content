@@ -12,7 +12,7 @@
         "timer": {
           "text": "It works!",
           "endDate": "2016/05/20 12:00",
-          "cssClass": "defaultTImer"
+          "cssClass": "countdown-timer-red"
         },
         "adjustments": {
           "primaryTopMargin": "30"
