@@ -12,7 +12,7 @@
         "timer": {
           "text": "It works!",
           "endDate": "2016/05/20 12:00",
-          "cssClass": "countdown-timer-red"
+          "cssClass": "countdown-timer-add-top-spacing"
         },
         "adjustments": {
           "primaryTopMargin": "30"
