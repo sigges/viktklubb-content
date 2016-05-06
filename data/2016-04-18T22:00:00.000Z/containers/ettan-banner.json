@@ -10,7 +10,7 @@
       "order": "1",
       "props": {
         "timer": {
-          "text": "It works!",
+          "text": "Erbjudandet går ut om:",
           "endDate": "2016/05/20 12:00",
           "cssClass": "countdown-timer-add-top-spacing"
         },
